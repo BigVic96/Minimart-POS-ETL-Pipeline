@@ -1,0 +1,119 @@
+receipt_no,transaction_id,transaction_date,transaction_time,store_name,till_id,cashier_name,customer_phone,product_code,product_name,category,quantity,unit_price_ngn,discount_pct,payment_method
+RCPT-400063,TXN400063,2026-10-03,18:20:00,MiniMart Express - Ikeja,TILL-02,Chidinma Okafor,,SKU1008,Milo 400g,Beverages,2,2100,0,Cash
+RCPT-400037,TXN400037,20/10/2026,08:48:00,MiniMart Express - Yaba,TILL-01,Amaka Eze,,SKU1002,Peak Milk Evaporated 170g,Dairy,3,650,0,USSD
+RCPT-400040,TXN400040,06/10/2026,11:42:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,170,0,USSD
+RCPT-400079,TXN400079,22/10/2026,18:16:00,MiniMart Express - Yaba,TILL-02,Tunde Bakare,,SKU1005,Coca-Cola 50cl,Beverages,1,400,0,USSD
+RCPT-400049,TXN400049,08/10/2026,08:54:00,MiniMart Express - Surulere,TILL-01,Ibrahim Musa,,SKU1003,Golden Morn 500g,Grains & Staples,2,1450,0,USSD
+RCPT-400033,TXN400033,22/10/2026,09:11:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1005,Coca-Cola 50cl,Beverages,1,400,0,Cash
+RCPT-400022,TXN400022,2026-10-11,15:14:00,MiniMart Express - Ikeja,TILL-02,Ibrahim Musa,,SKU1003,Golden Morn 500g,Grains & Staples,1,1450,0,Cash
+RCPT-400055,TXN400055,10/10/2026,17:05:00,MiniMart Express - Yaba,TILL-01,Chidinma Okafor,,SKU1003,Golden Morn 500g,Grains & Staples,2,1450,0,USSD
+RCPT-400034,TXN400034,02/10/2026,09:14:00,MiniMart Express - Surulere,TILL-01,Tunde Bakare,,SKU1023,Ariel Detergent 900g,Household,1,1750,0,Bank Transfer
+RCPT-400066,TXN400066,2026-10-09,20:50:00,MiniMart Express - Ikeja,TILL-01,Chidinma Okafor,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,6500,0,POS Card
+RCPT-400065,TXN400065,2026-10-23,12:54:00,MiniMart Express - Yaba,TILL-02,Amaka Eze,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,2,6500,0,Bank Transfer
+RCPT-400067,TXN400067,2026-10-02,20:01:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1005,Coca-Cola 50cl,Beverages,2,400,0,POS Card
+RCPT-400002,TXN400002,2026-10-03,10:50:00,MiniMart Express - Ikeja,TILL-02,Ibrahim Musa,,SKU1001,Indomie Noodles 70g,Grains & Staples,3,150,0,POS Card
+RCPT-400060,TXN400060,2026-10-11,16:24:00,MiniMart Express - Ikeja,TILL-01,Amaka Eze,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,6500,0,POS Card
+RCPT-400077,TXN400077,2026-10-08,16:16:00,MiniMart Express - Yaba,TILL-03,Amaka Eze,,SKU1002,Peak Milk Evaporated 170g,Dairy,1,650,0,Cash
+RCPT-400038,TXN400038,2026-10-24,20:56:00,MiniMart Express - Surulere,TILL-01,Ibrahim Musa,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,2,170,0,Bank Transfer
+RCPT-400072,TXN400072,2026-10-03,17:26:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,,SKU1023,Ariel Detergent 900g,Household,1,1750,0,Bank Transfer
+RCPT-400070,TXN400070,2026-10-23,19:59:00,MiniMart Express - Ikeja,TILL-02,Ibrahim Musa,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,3,170,0,POS Card
+RCPT-400045,TXN400045,2026-10-21,10:09:00,MiniMart Express - Ikeja,TILL-02,Tunde Bakare,,SKU1008,Milo 400g,Beverages,2,2100,0,Bank Transfer
+RCPT-400042,TXN400042,2026-10-06,14:09:00,MiniMart Express - Surulere,TILL-01,Tunde Bakare,,SKU1008,Milo 400g,Beverages,1,2100,0,USSD
+RCPT-400053,TXN400053,02/10/2026,14:49:00,MiniMart Express - Yaba,TILL-01,Ibrahim Musa,,SKU1002,Peak Milk Evaporated 170g,Dairy,2,650,0,USSD
+RCPT-400014,TXN400014,2026-10-23,08:16:00,MiniMart Express - Yaba,TILL-03,Tunde Bakare,,SKU1023,Ariel Detergent 900g,Household,2,1750,0,Bank Transfer
+RCPT-400056,TXN400056,09/10/2026,18:43:00,MiniMart Express - Yaba,TILL-02,Chidinma Okafor,,SKU1003,Golden Morn 500g,Grains & Staples,1,1450,0,USSD
+RCPT-400077,TXN400077,2026-10-08,16:16:00,MiniMart Express - Yaba,TILL-03,Amaka Eze,,SKU1023,Ariel Detergent 900g,Household,1,1750,0,Cash
+RCPT-400046,TXN400046,2026-10-07,08:43:00,MiniMart Express - Ikeja,TILL-02,Ibrahim Musa,,SKU1001,Indomie Noodles 70g,Grains & Staples,1,150,0,Bank Transfer
+RCPT-400064,TXN400064,2026-10-24,16:07:00,MiniMart Express - Yaba,TILL-02,Ibrahim Musa,,SKU1023,Ariel Detergent 900g,Household,2,1750,0,Bank Transfer
+RCPT-400025,TXN400025,06/10/2026,19:27:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,6500,0,POS Card
+RCPT-400031,TXN400031,2026-10-14,19:48:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,2,170,0,POS Card
+RCPT-400058,TXN400058,2026-10-06,13:00:00,MiniMart Express - Ikeja,TILL-01,Tunde Bakare,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,2,170,0,POS Card
+RCPT-400073,TXN400073,2026-10-05,10:58:00,MiniMart Express - Ikeja,TILL-02,Chidinma Okafor,,SKU1008,Milo 400g,Beverages,1,2100,0,USSD
+RCPT-400024,TXN400024,2026-10-07,12:56:00,MiniMart Express - Ikeja,TILL-01,Amaka Eze,,SKU1002,Peak Milk Evaporated 170g,Dairy,1,650,0,USSD
+RCPT-400029,TXN400029,2026-10-10,11:29:00,MiniMart Express - Ikeja,TILL-01,Chidinma Okafor,,SKU1002,Peak Milk Evaporated 170g,Dairy,2,650,0,Bank Transfer
+RCPT-400039,TXN400039,2026-10-14,17:48:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,6500,0,Cash
+RCPT-400044,TXN400044,09/10/2026,20:06:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1023,Ariel Detergent 900g,Household,1,1750,0,Bank Transfer
+RCPT-400008,TXN400008,2026-10-11,13:48:00,MiniMart Express - Ikeja,TILL-01,Amaka Eze,,SKU1003,Golden Morn 500g,Grains & Staples,1,1450,0,Bank Transfer
+RCPT-400037,TXN400037,2026-10-20,08:48:00,MiniMart Express - Yaba,TILL-01,Amaka Eze,,SKU1003,Golden Morn 500g,Grains & Staples,3,1450,0,USSD
+RCPT-400023,TXN400023,2026-10-08,15:58:00,MiniMart Express - Ikeja,TILL-02,Amaka Eze,,SKU1023,Ariel Detergent 900g,Household,2,1750,0,USSD
+RCPT-400076,TXN400076,2026-10-18,16:57:00,MiniMart Express - Yaba,TILL-01,Tunde Bakare,,SKU1003,Golden Morn 500g,Grains & Staples,1,1450,0,POS Card
+RCPT-400027,TXN400027,14/10/2026,15:39:00,MiniMart Express - Yaba,TILL-02,Ibrahim Musa,,SKU1023,Ariel Detergent 900g,Household,1,1750,0,Bank Transfer
+RCPT-400015,TXN400015,04/10/2026,10:01:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,,SKU1002,Peak Milk Evaporated 170g,Dairy,1,650,0,USSD
+RCPT-400080,TXN400080,17/10/2026,08:16:00,MiniMart Express - Yaba,TILL-02,Ibrahim Musa,,SKU1023,Ariel Detergent 900g,Household,2,1750,0,POS Card
+RCPT-400020,TXN400020,04/10/2026,09:41:00,MiniMart Express - Yaba,TILL-03,Ibrahim Musa,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,2,170,0,Cash
+RCPT-400025,TXN400025,06/10/2026,19:27:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,170,0,POS Card
+RCPT-400075,TXN400075,2026-10-20,17:47:00,MiniMart Express - Ikeja,TILL-02,Amaka Eze,,SKU1005,Coca-Cola 50cl,Beverages,2,400,0,USSD
+RCPT-400027,TXN400027,14/10/2026,15:39:00,MiniMart Express - Yaba,TILL-02,Ibrahim Musa,,SKU1008,Milo 400g,Beverages,3,2100,0,Bank Transfer
+RCPT-400062,TXN400062,25/10/2026,10:33:00,MiniMart Express - Yaba,TILL-02,Amaka Eze,,SKU1001,Indomie Noodles 70g,Grains & Staples,2,150,0,USSD
+RCPT-400059,TXN400059,2026-10-16,10:21:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,2,170,0,Bank Transfer
+RCPT-400068,TXN400068,04/10/2026,10:59:00,MiniMart Express - Surulere,TILL-01,Tunde Bakare,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,6500,0,Bank Transfer
+RCPT-400028,TXN400028,03/10/2026,16:37:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,2,170,0,Cash
+RCPT-400038,TXN400038,24/10/2026,20:56:00,MiniMart Express - Surulere,TILL-01,Ibrahim Musa,,SKU1005,Coca-Cola 50cl,Beverages,1,400,0,Bank Transfer
+RCPT-400044,TXN400044,2026-10-09,20:06:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,170,0,Bank Transfer
+RCPT-400061,TXN400061,2026-10-01,11:52:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,2,170,0,USSD
+RCPT-400017,TXN400017,13/10/2026,15:55:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1003,Golden Morn 500g,Grains & Staples,3,1450,0,Cash
+RCPT-400024,TXN400024,07/10/2026,12:56:00,MiniMart Express - Ikeja,TILL-01,Amaka Eze,,SKU1008,Milo 400g,Beverages,2,2100,0,USSD
+RCPT-400052,TXN400052,2026-10-08,11:27:00,MiniMart Express - Ikeja,TILL-01,Chidinma Okafor,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,2,6500,0,Cash
+RCPT-400071,TXN400071,2026-10-06,16:58:00,MiniMart Express - Yaba,TILL-01,Ibrahim Musa,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,6500,0,Cash
+RCPT-400003,TXN400003,2026-10-23,09:41:00,MiniMart Express - Ikeja,TILL-02,Ibrahim Musa,,SKU1002,Peak Milk Evaporated 170g,Dairy,1,650,0,Bank Transfer
+RCPT-400056,TXN400056,2026-10-09,18:43:00,MiniMart Express - Yaba,TILL-02,Chidinma Okafor,,SKU1001,Indomie Noodles 70g,Grains & Staples,2,150,0,USSD
+RCPT-400012,TXN400012,02/10/2026,12:08:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,,SKU1005,Coca-Cola 50cl,Beverages,3,400,0,USSD
+RCPT-400069,TXN400069,08/10/2026,12:20:00,MiniMart Express - Yaba,TILL-03,Chidinma Okafor,,SKU1023,Ariel Detergent 900g,Household,2,1750,0,POS Card
+RCPT-400029,TXN400029,2026-10-10,11:29:00,MiniMart Express - Ikeja,TILL-01,Chidinma Okafor,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,6500,0,Bank Transfer
+RCPT-400036,TXN400036,2026-10-07,18:49:00,MiniMart Express - Ikeja,TILL-02,Chidinma Okafor,,SKU1023,Ariel Detergent 900g,Household,3,1750,0,Cash
+RCPT-400032,TXN400032,22/10/2026,20:43:00,MiniMart Express - Surulere,TILL-01,Ibrahim Musa,,SKU1003,Golden Morn 500g,Grains & Staples,1,1450,0,Bank Transfer
+RCPT-400074,TXN400074,08/10/2026,15:21:00,MiniMart Express - Ikeja,TILL-01,Tunde Bakare,,SKU1005,Coca-Cola 50cl,Beverages,2,400,0,USSD
+RCPT-400036,TXN400036,07/10/2026,18:49:00,MiniMart Express - Ikeja,TILL-02,Chidinma Okafor,,SKU1002,Peak Milk Evaporated 170g,Dairy,2,650,0,Cash
+RCPT-400019,TXN400019,17/10/2026,12:18:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,3,6500,0,POS Card
+RCPT-400030,TXN400030,14/10/2026,14:56:00,MiniMart Express - Ikeja,TILL-02,Tunde Bakare,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,3,170,0,POS Card
+RCPT-400018,TXN400018,2026-10-08,14:09:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1008,Milo 400g,Beverages,1,2100,0,Bank Transfer
+RCPT-400049,TXN400049,08/10/2026,08:54:00,MiniMart Express - Surulere,TILL-01,Ibrahim Musa,,SKU1002,Peak Milk Evaporated 170g,Dairy,1,650,0,USSD
+RCPT-400057,TXN400057,2026-10-24,11:02:00,MiniMart Express - Yaba,TILL-01,Amaka Eze,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,6500,0,USSD
+RCPT-400035,TXN400035,11/10/2026,11:13:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1003,Golden Morn 500g,Grains & Staples,2,1450,0,Cash
+RCPT-400016,TXN400016,2026-10-20,10:11:00,MiniMart Express - Yaba,TILL-02,Tunde Bakare,,SKU1005,Coca-Cola 50cl,Beverages,2,400,0,POS Card
+RCPT-400047,TXN400047,25/10/2026,17:41:00,MiniMart Express - Yaba,TILL-01,Chidinma Okafor,,SKU1005,Coca-Cola 50cl,Beverages,2,400,0,Cash
+RCPT-400002,TXN400002,2026-10-03,10:50:00,MiniMart Express - Ikeja,TILL-02,Ibrahim Musa,,SKU1005,Coca-Cola 50cl,Beverages,3,400,0,POS Card
+RCPT-400072,TXN400072,03/10/2026,17:26:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,170,0,Bank Transfer
+RCPT-400021,TXN400021,03/10/2026,11:01:00,MiniMart Express - Surulere,TILL-01,Ibrahim Musa,,SKU1002,Peak Milk Evaporated 170g,Dairy,1,650,0,Cash
+RCPT-400078,TXN400078,2026-10-21,14:44:00,MiniMart Express - Surulere,TILL-01,Tunde Bakare,,SKU1003,Golden Morn 500g,Grains & Staples,1,1450,0,USSD
+RCPT-400033,TXN400033,22/10/2026,09:11:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1003,Golden Morn 500g,Grains & Staples,1,1450,0,Cash
+RCPT-400060,TXN400060,2026-10-11,16:24:00,MiniMart Express - Ikeja,TILL-01,Amaka Eze,,SKU1001,Indomie Noodles 70g,Grains & Staples,1,150,0,POS Card
+RCPT-400006,TXN400006,2026-10-11,15:24:00,MiniMart Express - Yaba,TILL-02,Ibrahim Musa,,SKU1002,Peak Milk Evaporated 170g,Dairy,1,650,0,Bank Transfer
+RCPT-400040,TXN400040,06/10/2026,11:42:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1023,Ariel Detergent 900g,Household,1,1750,0,USSD
+RCPT-400001,TXN400001,21/10/2026,12:30:00,MiniMart Express - Ikeja,TILL-02,Ibrahim Musa,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,3,170,0,POS Card
+RCPT-400080,TXN400080,17/10/2026,08:16:00,MiniMart Express - Yaba,TILL-02,Ibrahim Musa,,SKU1005,Coca-Cola 50cl,Beverages,1,400,0,POS Card
+RCPT-400039,TXN400039,2026-10-14,17:48:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1005,Coca-Cola 50cl,Beverages,1,400,0,Cash
+RCPT-400016,TXN400016,2026-10-20,10:11:00,MiniMart Express - Yaba,TILL-02,Tunde Bakare,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,2,6500,0,POS Card
+RCPT-400041,TXN400041,2026-10-16,12:02:00,MiniMart Express - Yaba,TILL-01,Ibrahim Musa,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,6500,0,USSD
+RCPT-400043,TXN400043,24/10/2026,16:51:00,MiniMart Express - Ikeja,TILL-02,Tunde Bakare,,SKU1001,Indomie Noodles 70g,Grains & Staples,3,150,0,USSD
+RCPT-400005,TXN400005,18/10/2026,15:35:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1003,Golden Morn 500g,Grains & Staples,3,1450,0,USSD
+RCPT-400078,TXN400078,21/10/2026,14:44:00,MiniMart Express - Surulere,TILL-01,Tunde Bakare,,SKU1023,Ariel Detergent 900g,Household,2,1750,0,USSD
+RCPT-400011,TXN400011,10/10/2026,08:54:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1001,Indomie Noodles 70g,Grains & Staples,1,150,0,Bank Transfer
+RCPT-400058,TXN400058,06/10/2026,13:00:00,MiniMart Express - Ikeja,TILL-01,Tunde Bakare,,SKU1002,Peak Milk Evaporated 170g,Dairy,1,650,0,POS Card
+RCPT-400061,TXN400061,2026-10-01,11:52:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,3,6500,0,USSD
+RCPT-400059,TXN400059,2026-10-16,10:21:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,,SKU1003,Golden Morn 500g,Grains & Staples,2,1450,0,Bank Transfer
+RCPT-400046,TXN400046,07/10/2026,08:43:00,MiniMart Express - Ikeja,TILL-02,Ibrahim Musa,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,6500,0,Bank Transfer
+RCPT-400071,TXN400071,2026-10-06,16:58:00,MiniMart Express - Yaba,TILL-01,Ibrahim Musa,,SKU1001,Indomie Noodles 70g,Grains & Staples,2,150,0,Cash
+RCPT-400011,TXN400011,2026-10-10,08:54:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1005,Coca-Cola 50cl,Beverages,3,400,0,Bank Transfer
+RCPT-400021,TXN400021,2026-10-03,11:01:00,MiniMart Express - Surulere,TILL-01,Ibrahim Musa,,SKU1001,Indomie Noodles 70g,Grains & Staples,1,150,0,Cash
+RCPT-400020,TXN400020,04/10/2026,09:41:00,MiniMart Express - Yaba,TILL-03,Ibrahim Musa,,SKU1008,Milo 400g,Beverages,2,2100,0,Cash
+RCPT-400009,TXN400009,2026-10-22,08:43:00,MiniMart Express - Yaba,TILL-02,Tunde Bakare,,SKU1003,Golden Morn 500g,Grains & Staples,3,1450,0,POS Card
+RCPT-400057,TXN400057,24/10/2026,11:02:00,MiniMart Express - Yaba,TILL-01,Amaka Eze,,SKU1005,Coca-Cola 50cl,Beverages,1,400,0,USSD
+RCPT-400014,TXN400014,23/10/2026,08:16:00,MiniMart Express - Yaba,TILL-03,Tunde Bakare,,SKU1003,Golden Morn 500g,Grains & Staples,2,1450,0,Bank Transfer
+RCPT-400015,TXN400015,2026-10-04,10:01:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,,SKU1023,Ariel Detergent 900g,Household,1,1750,0,USSD
+RCPT-400035,TXN400035,2026-10-11,11:13:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1001,Indomie Noodles 70g,Grains & Staples,1,150,0,Cash
+RCPT-400018,TXN400018,08/10/2026,14:09:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1023,Ariel Detergent 900g,Household,3,1750,0,Bank Transfer
+RCPT-400004,TXN400004,2026-10-13,15:09:00,MiniMart Express - Yaba,TILL-01,Amaka Eze,,SKU1023,Ariel Detergent 900g,Household,1,1750,0,POS Card
+RCPT-400047,TXN400047,2026-10-25,17:41:00,MiniMart Express - Yaba,TILL-01,Chidinma Okafor,,SKU1008,Milo 400g,Beverages,1,2100,0,Cash
+RCPT-400051,TXN400051,21/10/2026,14:07:00,MiniMart Express - Ikeja,TILL-01,Chidinma Okafor,,SKU1005,Coca-Cola 50cl,Beverages,1,400,0,Cash
+RCPT-400001,TXN400001,2026-10-21,12:30:00,MiniMart Express - Ikeja,TILL-02,Ibrahim Musa,,SKU1023,Ariel Detergent 900g,Household,1,1750,0,POS Card
+RCPT-400013,TXN400013,2026-10-16,17:57:00,MiniMart Express - Ikeja,TILL-02,Ibrahim Musa,,SKU1008,Milo 400g,Beverages,1,2100,0,USSD
+RCPT-400043,TXN400043,24/10/2026,16:51:00,MiniMart Express - Ikeja,TILL-02,Tunde Bakare,,SKU1003,Golden Morn 500g,Grains & Staples,1,1450,0,USSD
+RCPT-400054,TXN400054,17/10/2026,10:18:00,MiniMart Express - Yaba,TILL-03,Amaka Eze,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,2,170,0,Bank Transfer
+RCPT-400004,TXN400004,13/10/2026,15:09:00,MiniMart Express - Yaba,TILL-01,Amaka Eze,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,2,170,0,POS Card
+RCPT-400050,TXN400050,02/10/2026,15:11:00,MiniMart Express - Yaba,TILL-02,Tunde Bakare,,SKU1003,Golden Morn 500g,Grains & Staples,2,1450,0,POS Card
+RCPT-400007,TXN400007,2026-10-03,16:38:00,MiniMart Express - Yaba,TILL-01,Ibrahim Musa,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,6500,0,POS Card
+RCPT-400048,TXN400048,21/10/2026,13:09:00,MiniMart Express - Yaba,TILL-03,Chidinma Okafor,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,2,170,0,Bank Transfer
+RCPT-400010,TXN400010,22/10/2026,11:59:00,MiniMart Express - Yaba,TILL-02,Ibrahim Musa,,SKU1002,Peak Milk Evaporated 170g,Dairy,1,650,0,POS Card
+RCPT-400073,TXN400073,2026-10-05,10:58:00,MiniMart Express - Ikeja,TILL-02,Chidinma Okafor,,SKU1023,Ariel Detergent 900g,Household,1,1750,0,USSD
+RCPT-400026,TXN400026,22/10/2026,16:12:00,MiniMart Express - Surulere,TILL-01,Tunde Bakare,,SKU1008,Milo 400g,Beverages,2,2100,0,POS Card

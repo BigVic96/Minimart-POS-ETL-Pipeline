@@ -1,0 +1,790 @@
+receipt_no,transaction_id,transaction_date,transaction_time,store_name,till_id,cashier_name,customer_phone,product_code,product_name,category,quantity,unit_price_ngn,discount_pct,payment_method
+RCPT-200239,TXN200239,2026-08-03,09:07:00,YABA,TILL-03,Amaka Eze,,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,1250,5,Transfer
+RCPT-200398,TXN200398,2026-08-08,14:12:00,YABA,TILL-01,Fatima Bello,,SKU1019,Titus Sardine 125g,Canned Foods,3,710,0,Cash
+RCPT-200143,TXN200143,2026-08-02,05:33 PM,IKEJA,TILL-01,Amaka Eze,,SKU1006,Bigi Cola 50cl,Beverages,3,320,0,cash
+RCPT-200080,TXN200080,14/08/2026,13:43:00,Yaba Branch,TILL-02,Tunde Bakare,7553128059,SKU1019,Titus Sardine 125g,Canned Foods,1,₦790.00,5,transfer
+RCPT-200255,TXN200255,2026-08-05,15:01:00,SURULERE,TILL-01,Blessing Nwosu,07333406815,SKU1020,Cerelac Infant Cereal 400g,Baby Products,1,3060,0,POS Card
+RCPT-200085,TXN200085,10-08-2026,10:26:00,Yaba Branch,TILL-03,Emeka Obi,+2348892952820,SKU1020,Cerelac Infant Cereal 400g,Baby Products,2,3520,15,pos
+RCPT-200013,TXN200013,2026-08-03,12:09:00,Surulere Branch,TILL-01,Tunde Bakare,+2348355368419,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,1,"₦2,830.00",0,POS Card
+RCPT-200277,TXN200277,2026-08-03,18:45:00,Yaba Branch,TILL-01,Blessing Nwosu,,SKU1023,Ariel Detergent 900g,Household,4,1910,15,USSD
+RCPT-200222,TXN200222,2026-08-04,08:27:00,MiniMart Express - Ikeja,TILL-01,Fatima Bello,07819910621,SKU1026,Chivita Juice 1L,Beverages,2,1490,0,POS Card
+RCPT-200381,TXN200381,04/08/2026,07:44:00,Surulere Branch,TILL-01,Segun Adeyemi,+2348489386752,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,5,4270,0,transfer
+RCPT-200345,TXN200345,2026-08-04,18:52:00,SURULERE,TILL-01,Blessing Nwosu,+2348053263413,SKU1027,Amstel Malta 33cl,Beverages,1,370,0,CASH
+RCPT-200184,TXN200184,2026-08-02,13:00:00,Surulere Branch,TILL-01,Ibrahim Musa,,SKU1023,Ariel Detergent 900g,Household,2,1660,0,ATM Card
+RCPT-200078,TXN200078,2026-08-10,10:49 AM,MiniMart Express - Yaba,TILL-01,Emeka Obi,,SKU1002,Peak Milk Evaporated 170g,Dairy,3,690,0,transfer
+RCPT-200115,TXN200115,2026-08-10,17:12:00,YABA,TILL-01,Blessing Nwosu,+2347004529514,SKU1003,Golden Morn 500g,Grains & Staples,2,1660,0,cash
+RCPT-200385,TXN200385,2026-08-07,15:41:00,SURULERE,TILL-01,Blessing Nwosu,,SKU1018,Maltina 33cl,Beverages,1,460.00,15,Bank Transfer
+RCPT-200215,TXN200215,2026-08-14,20:06:00,MiniMart Express - Yaba,TILL-02,Tunde Bakare,,SKU1021,Bournvita 500g,Beverages,1,2510,0,Cash
+RCPT-200007,TXN200007,2026-08-07,11:35:00,Ikeja Branch,TILL-01,Chidinma Okafor,+2348815952173,SKU1026,Chivita Juice 1L,Beverages,2,1320,10,Bank Transfer
+RCPT-200147,TXN200147,11-08-2026,09:01:00,YABA,TILL-01,Emeka Obi,,SKU1013,Omo Detergent 900g,Household,2,1460,5,Bank Transfer
+RCPT-200278,TXN200278,2026-08-11,01:34 PM,MiniMart Express - Ikeja,TILL-02,Chidinma Okafor,+2349031504440,SKU1019,Titus Sardine 125g,Canned Foods,2,800,10,cash
+RCPT-200306,TXN200306,2026-08-11,19:58:00,MiniMart Express - Ikeja,TILL-01,Blessing Nwosu,08573457584,SKU1018,Maltina 33cl,Beverages,1,460,5,CASH
+RCPT-200150,TXN200150,2026-08-05,07:31:00,SURULERE,TILL-01,Amaka Eze,,SKU1002,Peak Milk Evaporated 170g,Dairy,1,₦620.00,5,cash
+RCPT-200121,TXN200121,2026-08-12,20:28:00,YABA,TILL-01,Emeka Obi,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,2,2620,0,Card
+RCPT-200291,TXN200291,2026-08-05,14:45:00,Surulere Branch,TILL-01,Ibrahim Musa,+2347488597334,SKU1018,Maltina 33cl,Beverages,2,470,15,Cash
+RCPT-200106,TXN200106,2026-08-06,19:44:00,Surulere Branch,TILL-01,Amaka Eze,,SKU1017,La Casera 50cl,Beverages,2,340,0,Bank Transfer
+RCPT-200247,TXN200247,2026-08-12,13:49:00,MiniMart Express - Surulere,TILL-01,Tunde Bakare,8123359066,SKU1005,Coca-Cola 50cl,Beverages,1,460,0,Cash
+RCPT-200317,TXN200317,2026-08-09,10:11:00,Surulere Branch,TILL-01,Ibrahim Musa,+2348457399586,SKU1009,Cowbell Milk Powder 360g,Dairy,1,1880,15,transfer
+RCPT-200133,TXN200133,2026-08-02,17:34:00,SURULERE,TILL-01,Segun Adeyemi,,SKU1021,Bournvita 500g,Beverages,4,2380,0,Cash
+RCPT-200229,TXN200229,08-08-2026,17:26:00,SURULERE,TILL-01,Amaka Eze,,SKU1021,Bournvita 500g,Beverages,1,2220,0,Cash
+RCPT-200200,TXN200200,2026-08-09,17:15:00,MiniMart Express - Yaba,TILL-03,Fatima Bello,,SKU1026,Chivita Juice 1L,Beverages,1,"₦1,430.00",15,Bank Transfer
+RCPT-200176,TXN200176,2026-08-08,16:44:00,Yaba Branch,TILL-02,Segun Adeyemi,+2347048984260,SKU1013,Omo Detergent 900g,Household,1,,0,POS Card
+RCPT-200104,TXN200104,2026-08-08,07:05:00,SURULERE,TILL-01,Segun Adeyemi,9059369038,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,3,160,10,POS Card
+RCPT-200173,TXN200173,2026-08-09,19:35:00,Yaba Branch,TILL-02,Fatima Bello,,SKU1001,Indomie Noodles 70g,Grains & Staples,2,150,0,Cash
+RCPT-200236,TXN200236,01-08-2026,13:27:00,Surulere Branch,TILL-01,Fatima Bello,8585985542,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,170,15,Cash
+RCPT-200106,TXN200106,06/08/2026,19:44:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,,SKU1028,Semovita 2kg,Grains & Staples,2,2140,10,Bank Transfer
+RCPT-200145,TXN200145,2026-08-03,17:11:00,YABA,TILL-03,Tunde Bakare,,SKU1006,Bigi Cola 50cl,Beverages,1,,0,Card
+RCPT-200065,TXN200065,2026-08-04,13:14:00,MiniMart Express - Ikeja,TILL-01,Emeka Obi,08305271521,SKU1009,Cowbell Milk Powder 360g,Dairy,2,1860,0,Transfer
+RCPT-200389,TXN200389,2026-08-03,18:23:00,MiniMart Express - Yaba,TILL-01,Amaka Eze,,SKU1029,Dano Milk Powder 400g,Dairy,3,"2,950.00",0,Cash
+RCPT-200289,TXN200289,05/08/2026,17:59:00,Ikeja Branch,TILL-01,Fatima Bello,,SKU1013,Omo Detergent 900g,Household,1,1590,15,Cash
+RCPT-200041,TXN200041,2026-08-01,07:44:00,IKEJA,TILL-01,Segun Adeyemi,,SKU1014,Dettol Soap 65g,Personal Care,3,390,0,pos
+RCPT-200230,TXN200230,2026-08-10,20:43:00,IKEJA,TILL-01,Amaka Eze,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,2,2160,5,POS Card
+RCPT-200151,TXN200151,2026-08-07,03:36 PM,Ikeja Branch,TILL-01,Blessing Nwosu,8424521726,SKU1008,Milo 400g,Beverages,3,"2,020.00",0,Card
+RCPT-200165,TXN200165,06/08/2026,12:58:00,Ikeja Branch,TILL-02,Blessing Nwosu,,SKU1006,Bigi Cola 50cl,,2,400,0,POS Card
+RCPT-200199,TXN200199,2026-08-07,07:34:00,Ikeja Branch,TILL-01,Emeka Obi,+2347935348054,SKU1003,Golden Morn 500g,Grains & Staples,5,1590,0,USSD
+RCPT-200250,TXN200250,2026-08-02,16:04:00,SURULERE,TILL-01,Tunde Bakare,7941541020,SKU1015,Close Up Toothpaste 140ml,Personal Care,5,1000,5,Cash
+RCPT-200159,TXN200159,2026-08-04,18:50:00,SURULERE,TILL-01,Chidinma Okafor,8516454349,SKU1003,Golden Morn 500g,,1,1500,0,Transfer
+RCPT-200238,TXN200238,14/08/2026,13:27:00,Ikeja Branch,TILL-02,Amaka Eze,,SKU1001,Indomie Noodles 70g,Grains & Staples,3,₦170.00,5,POS Card
+RCPT-200265,TXN200265,2026-08-13,07:30:00,MiniMart Express - Surulere,TILL-01,Emeka Obi,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,2,2490,0,POS Card
+RCPT-200301,TXN200301,2026-08-06,15:26:00,MiniMart Express - Ikeja,TILL-02,Amaka Eze,,SKU1028,Semovita 2kg,Grains & Staples,2,2280,0,Cash
+RCPT-200374,TXN200374,2026-08-07,19:04:00,MiniMart Express - Yaba,TILL-01,Ibrahim Musa,+2347477004071,SKU1020,Cerelac Infant Cereal 400g,Baby Products,1,3240,15,transfer
+RCPT-200017,TXN200017,2026-08-07,14:05:00,IKEJA,TILL-02,Tunde Bakare,,SKU1008,Milo 400g,Beverages,1,"2,260.00",5,Transfer
+RCPT-200124,TXN200124,2026-08-03,11:24 AM,YABA,TILL-01,Ibrahim Musa,,SKU1014,Dettol Soap 65g,Personal Care,1,340,0,USSD
+RCPT-200175,TXN200175,2026-08-10,10:49:00,Surulere Branch,TILL-01,Amaka Eze,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,2,2110,0,Cash
+RCPT-200011,TXN200011,11-08-2026,11:53:00,Ikeja Branch,TILL-01,Ibrahim Musa,8111072459,SKU1029,Dano Milk Powder 400g,Dairy,4,3040,0,USSD
+RCPT-200064,TXN200064,2026-08-05,15:16:00,MiniMart Express - Yaba,TILL-02,Segun Adeyemi,,SKU1028,Semovita 2kg,Grains & Staples,1,2020,0,POS Card
+RCPT-200225,TXN200225,11/08/2026,15:47:00,IKEJA,TILL-02,Tunde Bakare,,SKU1027,Amstel Malta 33cl,Beverages,3,420,15,Cash
+RCPT-200294,TXN200294,2026-08-11,13:52:00,YABA,TILL-03,Fatima Bello,+2347713027091,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,3,330.00,0,Cash
+RCPT-200101,TXN200101,2026-08-14,20:40:00,MiniMart Express - Ikeja,TILL-02,Tunde Bakare,08938765293,SKU1030,Nasco Cornflakes 500g,Grains & Staples,1,1780,0,pos
+RCPT-200316,TXN200316,14/08/2026,21:46:00,MiniMart Express - Yaba,TILL-03,Tunde Bakare,+2348592140528,SKU1027,Amstel Malta 33cl,Beverages,2,370,0,Bank Transfer
+RCPT-200375,TXN200375,2026-08-01,18:38:00,MiniMart Express - Surulere,TILL-01,Fatima Bello,+2348004900605,SKU1002,Peak Milk Evaporated 170g,Dairy,1,590,0,Card
+RCPT-200221,TXN200221,2026-08-03,14:33:00,Ikeja Branch,TILL-01,Tunde Bakare,+2348104116690,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,5870,0,Transfer
+RCPT-200202,TXN200202,2026-08-07,11:02:00,MiniMart Express - Ikeja,TILL-02,Blessing Nwosu,,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,340,0,pos
+RCPT-200259,TXN200259,2026-08-05,17:33:00,MiniMart Express - Surulere,TILL-01,Tunde Bakare,+2348659772811,SKU1021,Bournvita 500g,Beverages,1,2560,10,Cash
+RCPT-200344,TXN200344,2026-08-06,12:58:00,Ikeja Branch,TILL-01,Fatima Bello,07049632095,SKU1007,Gala Sausage Roll,Snacks,1,270,0,Cash
+RCPT-200395,TXN200395,2026-08-13,09:01:00,Yaba Branch,TILL-02,Emeka Obi,,SKU1004,Dangote Sugar 1kg,Grains & Staples,2,1270,0,Transfer
+RCPT-200391,TXN200391,2026-08-08,08:01:00,MiniMart Express - Ikeja,TILL-02,Fatima Bello,,SKU1018,Maltina 33cl,Beverages,1,490,0,Transfer
+RCPT-200211,TXN200211,2026-08-07,16:38:00,MiniMart Express - Surulere,TILL-01,Blessing Nwosu,,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,,5,Card
+RCPT-200035,TXN200035,2026-08-01,19:00:00,MiniMart Express - Surulere,TILL-01,Blessing Nwosu,7963138362,SKU1005,Coca-Cola 50cl,Beverages,3,410.00,15,pos
+RCPT-200305,TXN200305,2026-08-12,19:31:00,MiniMart Express - Surulere,TILL-01,Tunde Bakare,,SKU1013,Omo Detergent 900g,Household,4,1540,5,USSD
+RCPT-200359,TXN200359,2026-08-08,17:34:00,SURULERE,TILL-01,Ibrahim Musa,8351769404,SKU1028,Semovita 2kg,Grains & Staples,1,2280,0,Cash
+RCPT-200194,TXN200194,2026-08-05,19:16:00,YABA,TILL-02,Amaka Eze,,SKU1008,Milo 400g,Beverages,2,2190,5,POS Card
+RCPT-200171,TXN200171,2026-08-02,17:48:00,MiniMart Express - Surulere,TILL-01,Blessing Nwosu,,SKU1015,Close Up Toothpaste 140ml,,1,₦930.00,0,USSD
+RCPT-200285,TXN200285,2026-08-14,10:33:00,Ikeja Branch,TILL-02,Tunde Bakare,+2347098169353,SKU1007,Gala Sausage Roll,Snacks,1,280.00,10,Card
+RCPT-200385,TXN200385,2026-08-07,03:41 PM,SURULERE,TILL-01,Blessing Nwosu,,SKU1025,Tom Tom Sweet (pack),Snacks,1,340,0,Bank Transfer
+RCPT-200175,TXN200175,2026-08-10,10:49:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,,SKU1009,Cowbell Milk Powder 360g,Dairy,4,1960,10,Cash
+RCPT-200279,TXN200279,2026-08-09,13:47:00,MiniMart Express - Surulere,TILL-01,Emeka Obi,,SKU1014,Dettol Soap 65g,Personal Care,2,₦330.00,0,POS Card
+RCPT-200220,TXN200220,2026-08-12,19:13:00,Ikeja Branch,TILL-01,Tunde Bakare,8997090694,SKU1008,Milo 400g,Beverages,2,1910,5,ATM Card
+RCPT-200314,TXN200314,2026-08-08,13:07:00,Surulere Branch,TILL-01,Amaka Eze,8658546557,SKU1030,Nasco Cornflakes 500g,Grains & Staples,4,"1,740.00",0,POS
+RCPT-200142,TXN200142,2026-08-04,18:10:00,IKEJA,TILL-01,Fatima Bello,7143479839,SKU1023,Ariel Detergent 900g,Household,1,1730,0,ussd
+RCPT-200182,TXN200182,2026-08-10,09:14:00,MiniMart Express - Yaba,TILL-02,Chidinma Okafor,,SKU1027,Amstel Malta 33cl,Beverages,3,400.00,0,Cash
+RCPT-200094,TXN200094,2026-08-14,19:16:00,Ikeja Branch,TILL-01,Blessing Nwosu,,SKU1018,Maltina 33cl,Beverages,2,480,0,Cash
+RCPT-200173,TXN200173,2026-08-09,19:35:00,Yaba Branch,TILL-02,Fatima Bello,,SKU1029,Dano Milk Powder 400g,Dairy,1,2890,0,Cash
+RCPT-200288,TXN200288,2026-08-04,21:31:00,SURULERE,TILL-01,Blessing Nwosu,07391059451,SKU1016,Eva Water 75cl,Beverages,1,,0,USSD
+RCPT-200256,TXN200256,2026-08-06,13:59:00,Ikeja Branch,TILL-01,Ibrahim Musa,,SKU1016,Eva Water 75cl,Beverages,4,220,0,Card
+RCPT-200244,TXN200244,2026-08-07,19:29:00,Surulere Branch,TILL-01,Blessing Nwosu,+2348863997537,SKU1011,Honeywell Semolina 2kg,Grains & Staples,3,2470,0,POS Card
+RCPT-200070,TXN200070,2026-08-11,20:36:00,YABA,TILL-01,Emeka Obi,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,2,1730,15,transfer
+RCPT-200139,TXN200139,10-08-2026,08:46:00,YABA,TILL-03,Tunde Bakare,,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,290,0,Cash
+RCPT-200205,TXN200205,2026-08-03,19:14:00,Surulere Branch,TILL-01,Ibrahim Musa,+2349044637417,SKU1021,Bournvita 500g,Beverages,2,2640,0,Cash
+RCPT-200354,TXN200354,2026-08-04,19:02:00,MiniMart Express - Yaba,TILL-02,Ibrahim Musa,8706881586,SKU1026,Chivita Juice 1L,Beverages,1,1300,0,POS Card
+RCPT-200360,TXN200360,03/08/2026,14:17:00,YABA,TILL-02,Fatima Bello,07929751981,SKU1004,Dangote Sugar 1kg,Grains & Staples,3,1190,15,transfer
+RCPT-200367,TXN200367,2026-08-05,16:17:00,SURULERE,TILL-01,Blessing Nwosu,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,2,"5,900.00",15,POS Card
+RCPT-200253,TXN200253,01-08-2026,19:10:00,MiniMart Express - Ikeja,TILL-01,Tunde Bakare,7181647471,SKU1013,Omo Detergent 900g,Household,2,1760,0,Bank Transfer
+RCPT-200170,TXN200170,10/08/2026,08:42 PM,SURULERE,TILL-01,Tunde Bakare,07591107175,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,330,10,Card
+RCPT-200132,TXN200132,06/08/2026,14:06:00,Yaba Branch,TILL-03,Fatima Bello,,SKU1008,Milo 400g,Beverages,1,2040,10,Bank Transfer
+RCPT-200139,TXN200139,2026-08-10,08:46:00,MiniMart Express - Yaba,TILL-03,Tunde Bakare,,SKU1017,La Casera 50cl,Beverages,5,400.00,15,Cash
+RCPT-200263,TXN200263,2026-08-07,11:24:00,MiniMart Express - Surulere,TILL-01,,,SKU1021,Bournvita 500g,Beverages,1,2260,10,ussd
+RCPT-200061,TXN200061,01-08-2026,09:20:00,YABA,TILL-03,Tunde Bakare,,SKU1023,Ariel Detergent 900g,Household,4,"₦1,890.00",0,POS
+RCPT-200347,TXN200347,2026-08-13,17:13:00,SURULERE,TILL-01,,09073709857,SKU1019,Titus Sardine 125g,Canned Foods,4,₦730.00,5,Bank Transfer
+RCPT-200095,TXN200095,2026-08-08,17:43:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,8837063330,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,330,5,Cash
+RCPT-200332,TXN200332,2026-08-03,09:32:00,IKEJA,TILL-02,Fatima Bello,,SKU1003,Golden Morn 500g,Grains & Staples,2,1530,0,Cash
+RCPT-200086,TXN200086,2026-08-02,09:00:00,IKEJA,TILL-01,Amaka Eze,,SKU1028,Semovita 2kg,Grains & Staples,3,2170,0,POS Card
+RCPT-200148,TXN200148,2026-08-03,08:53:00,YABA,TILL-01,Chidinma Okafor,,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,4,4170,5,POS
+RCPT-200274,TXN200274,2026-08-09,08:40:00,SURULERE,TILL-01,,07687415634,SKU1009,Cowbell Milk Powder 360g,Dairy,4,2050,0,Cash
+RCPT-200295,TXN200295,2026-08-06,19:11:00,Ikeja Branch,TILL-02,Tunde Bakare,,SKU1027,Amstel Malta 33cl,Beverages,1,370,0,pos
+RCPT-200021,TXN200021,2026-08-03,17:53:00,MiniMart Express - Yaba,TILL-02,Amaka Eze,,SKU1025,Tom Tom Sweet (pack),Snacks,4,280,5,ussd
+RCPT-200083,TXN200083,2026-08-11,10:04:00,Yaba Branch,TILL-03,Segun Adeyemi,7985676253,SKU1011,Honeywell Semolina 2kg,Grains & Staples,1,2420,15,POS Card
+RCPT-200168,TXN200168,2026-08-05,15:02:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,+2348282235855,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,1,2640,0,POS Card
+RCPT-200270,TXN200270,09-08-2026,19:57:00,YABA,TILL-03,Ibrahim Musa,,SKU1027,Amstel Malta 33cl,Beverages,2,370.00,10,Transfer
+RCPT-200194,TXN200194,2026-08-05,19:16:00,MiniMart Express - Yaba,TILL-02,Amaka Eze,,SKU1026,Chivita Juice 1L,Beverages,1,1430,0,POS Card
+RCPT-200172,TXN200172,2026-08-06,14:32:00,Ikeja Branch,TILL-02,Tunde Bakare,,SKU1009,Cowbell Milk Powder 360g,Dairy,3,1960,5,Bank Transfer
+RCPT-200144,TXN200144,2026-08-07,11:13:00,MiniMart Express - Yaba,TILL-01,Blessing Nwosu,,SKU1018,Maltina 33cl,Beverages,3,500,0,ussd
+RCPT-200240,TXN200240,2026-08-13,16:50:00,YABA,TILL-01,Fatima Bello,,SKU1018,Maltina 33cl,Beverages,3,480,0,Bank Transfer
+RCPT-200277,TXN200277,03-08-2026,18:45:00,MiniMart Express - Yaba,TILL-01,Blessing Nwosu,,SKU1008,Milo 400g,Beverages,2,2230,5,USSD
+RCPT-200025,TXN200025,2026-08-13,17:21:00,YABA,TILL-01,Tunde Bakare,08366305379,SKU1021,Bournvita 500g,Beverages,2,2260,0,ussd
+RCPT-200052,TXN200052,2026-08-03,12:18 PM,Surulere Branch,TILL-01,Chidinma Okafor,,SKU1023,Ariel Detergent 900g,Household,2,"1,870.00",0,POS Card
+RCPT-200002,TXN200002,2026-08-10,20:11:00,Surulere Branch,TILL-01,Emeka Obi,+2348693953174,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,3,280,0,Cash
+RCPT-200387,TXN200387,2026-08-13,15:04:00,MiniMart Express - Yaba,TILL-02,Amaka Eze,,SKU1017,La Casera 50cl,Beverages,1,340,0,POS Card
+RCPT-200162,TXN200162,2026-08-04,17:13:00,MiniMart Express - Surulere,TILL-01,Fatima Bello,9072524184,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,1,5170,0,Cash
+RCPT-200144,TXN200144,07/08/2026,11:13:00,YABA,TILL-01,Blessing Nwosu,,SKU1026,Chivita Juice 1L,Beverages,1,1220,0,ussd
+RCPT-200294,TXN200294,2026-08-11,13:52:00,MiniMart Express - Yaba,TILL-03,Fatima Bello,+2347713027091,SKU1009,Cowbell Milk Powder 360g,Dairy,2,1830,0,Cash
+RCPT-200035,TXN200035,2026-08-01,19:00:00,SURULERE,TILL-01,Blessing Nwosu,7963138362,SKU1013,Omo Detergent 900g,Household,1,1600,5,pos
+RCPT-200166,TXN200166,2026-08-08,13:22:00,Ikeja Branch,TILL-02,Blessing Nwosu,,SKU1007,Gala Sausage Roll,Snacks,-2,260,10,ATM Card
+RCPT-200288,TXN200288,04/08/2026,21:31:00,MiniMart Express - Surulere,TILL-01,Blessing Nwosu,07391059451,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,3,2790,15,USSD
+RCPT-200223,TXN200223,2026-08-10,08:54:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,7343130643,SKU1020,Cerelac Infant Cereal 400g,Baby Products,4,"₦3,210.00",0,Cash
+RCPT-200268,TXN200268,2026-08-14,20:46:00,IKEJA,TILL-02,Amaka Eze,,SKU1025,Tom Tom Sweet (pack),Snacks,1,330,15,Bank Transfer
+RCPT-200260,TXN200260,2026-08-09,17:17:00,Ikeja Branch,TILL-01,Amaka Eze,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,1,3560,0,Cash
+RCPT-200195,TXN200195,2026-08-03,08:58:00,MiniMart Express - Ikeja,TILL-02,Chidinma Okafor,07907702778,SKU1005,Coca-Cola 50cl,Beverages,1,440,15,USSD
+RCPT-200154,TXN200154,2026-08-10,09:42:00,YABA,TILL-01,Blessing Nwosu,,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,2,2820,15,Cash
+RCPT-200338,TXN200338,13/08/2026,11:33:00,Ikeja Branch,TILL-01,Chidinma Okafor,07649625631,SKU1005,Coca-Cola 50cl,Beverages,2,460,0,Transfer
+RCPT-200238,TXN200238,2026-08-14,13:27:00,MiniMart Express - Ikeja,TILL-02,Amaka Eze,,SKU1018,Maltina 33cl,Beverages,4,460,5,POS Card
+RCPT-200123,TXN200123,2026-08-06,03:12 PM,SURULERE,TILL-01,Ibrahim Musa,,SKU1004,Dangote Sugar 1kg,Grains & Staples,2,1190,0,POS Card
+RCPT-200105,TXN200105,2026-08-12,09:52:00,MiniMart Express - Yaba,TILL-02,Chidinma Okafor,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,2,1950,0,POS Card
+RCPT-200366,TXN200366,2026-08-02,21:36:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,,SKU1016,Eva Water 75cl,Beverages,2,180,10,Card
+RCPT-200135,TXN200135,2026-08-09,20:56:00,IKEJA,TILL-02,Fatima Bello,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,3,200,10,POS Card
+RCPT-200282,TXN200282,2026-08-04,21:30:00,MiniMart Express - Yaba,TILL-02,Chidinma Okafor,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,160,0,POS Card
+RCPT-200396,TXN200396,2026-08-14,20:53:00,MiniMart Express - Yaba,TILL-03,Emeka Obi,,SKU1027,Amstel Malta 33cl,Beverages,2,440,5,Bank Transfer
+RCPT-200055,TXN200055,11/08/2026,13:32:00,Yaba Branch,TILL-02,Ibrahim Musa,,SKU1030,Nasco Cornflakes 500g,,3,1850,10,transfer
+RCPT-200014,TXN200014,2026-08-02,18:07:00,MiniMart Express - Surulere,TILL-01,Blessing Nwosu,7729291061,SKU1017,La Casera 50cl,Beverages,2,330,0,POS Card
+RCPT-200069,TXN200069,2026-08-12,19:58:00,IKEJA,TILL-02,Fatima Bello,8621599149,SKU1005,Coca-Cola 50cl,Beverages,1,390,10,Cash
+RCPT-200115,TXN200115,2026-08-10,17:12:00,YABA,TILL-01,Blessing Nwosu,+2347004529514,SKU1018,Maltina 33cl,Beverages,1,420.00,0,cash
+RCPT-200153,TXN200153,2026-08-08,19:12:00,Ikeja Branch,TILL-01,Amaka Eze,08027645409,SKU1020,Cerelac Infant Cereal 400g,Baby Products,5,"3,210.00",0,CASH
+RCPT-200033,TXN200033,2026-08-10,14:17:00,SURULERE,TILL-01,Ibrahim Musa,+2348064546190,SKU1026,Chivita Juice 1L,Beverages,2,1370,10,Cash
+RCPT-200068,TXN200068,2026-08-06,20:12:00,SURULERE,TILL-01,Fatima Bello,,SKU1004,Dangote Sugar 1kg,Grains & Staples,4,1110,10,POS Card
+RCPT-200172,TXN200172,06-08-2026,14:32:00,Ikeja Branch,TILL-02,Tunde Bakare,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,4,3480,15,Bank Transfer
+RCPT-200164,TXN200164,2026-08-02,19:18:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,08561083228,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,170.00,0,pos
+RCPT-200326,TXN200326,2026-08-06,14:48:00,SURULERE,TILL-01,Fatima Bello,07276596608,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,1250,0,ussd
+RCPT-200149,TXN200149,14/08/2026,10:08:00,Ikeja Branch,TILL-01,Fatima Bello,08151589166,SKU1002,Peak Milk Evaporated 170g,Dairy,3,630,10,transfer
+RCPT-200279,TXN200279,2026-08-09,13:47:00,SURULERE,TILL-01,Emeka Obi,,SKU1019,Titus Sardine 125g,Canned Foods,2,790,15,POS Card
+RCPT-200139,TXN200139,2026-08-10,08:46:00,YABA,TILL-03,Tunde Bakare,,SKU1016,Eva Water 75cl,Beverages,1,200,10,Cash
+RCPT-200235,TXN200235,2026-08-14,07:53:00,MiniMart Express - Yaba,TILL-01,Emeka Obi,+2347844579408,SKU1007,Gala Sausage Roll,Snacks,1,₦270.00,0,ATM Card
+RCPT-200302,TXN200302,2026-08-14,11:59:00,MiniMart Express - Yaba,TILL-01,Ibrahim Musa,08194346901,SKU1020,Cerelac Infant Cereal 400g,Baby Products,1,3290,15,CASH
+RCPT-200100,TXN200100,2026-08-10,15:21:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,,SKU1009,Cowbell Milk Powder 360g,Dairy,4,1960,15,Bank Transfer
+RCPT-200237,TXN200237,2026-08-10,11:34:00,Ikeja Branch,TILL-02,Blessing Nwosu,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,1,2510,5,Card
+RCPT-200022,TXN200022,2026-08-09,09:41 PM,MiniMart Express - Yaba,TILL-01,Segun Adeyemi,+2347909985918,SKU1030,Nasco Cornflakes 500g,Grains & Staples,4,1970,5,Cash
+RCPT-200243,TXN200243,2026-08-01,05:54 PM,YABA,TILL-03,Ibrahim Musa,,SKU1007,Gala Sausage Roll,Snacks,2,240,0,Cash
+RCPT-200063,TXN200063,2026-08-09,20:18:00,MiniMart Express - Yaba,TILL-01,Amaka Eze,,SKU1021,Bournvita 500g,Beverages,3,2680,0,ussd
+RCPT-200043,TXN200043,2026-08-06,15:33:00,IKEJA,TILL-01,Ibrahim Musa,,SKU1023,Ariel Detergent 900g,Household,1,"₦1,630.00",0,Card
+RCPT-200054,TXN200054,2026-08-12,19:15:00,Ikeja Branch,TILL-02,Ibrahim Musa,8549039930,SKU1026,Chivita Juice 1L,Beverages,1,1190,0,USSD
+RCPT-200181,TXN200181,2026-08-09,16:13:00,Surulere Branch,TILL-01,Ibrahim Musa,7704498791,SKU1019,Titus Sardine 125g,Canned Foods,2,790,5,Bank Transfer
+RCPT-200323,TXN200323,2026-08-03,21:44:00,SURULERE,TILL-01,Blessing Nwosu,,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,2,"2,720.00",0,pos
+RCPT-200254,TXN200254,2026-08-08,10:42:00,Ikeja Branch,TILL-02,Ibrahim Musa,08162601218,SKU1009,Cowbell Milk Powder 360g,Dairy,1,1870,5,Card
+RCPT-200233,TXN200233,2026-08-03,19:29:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,08472748668,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,,0,Bank Transfer
+RCPT-200015,TXN200015,2026-08-03,18:06:00,IKEJA,TILL-01,Blessing Nwosu,,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,"1,260.00",15,Cash
+RCPT-200229,TXN200229,2026-08-08,17:26:00,Surulere Branch,TILL-01,Amaka Eze,,SKU1027,Amstel Malta 33cl,Beverages,1,450,10,Cash
+RCPT-200256,TXN200256,2026-08-06,13:59:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,5,1880,15,Card
+RCPT-200004,TXN200004,05-08-2026,19:14:00,Yaba Branch,TILL-02,Ibrahim Musa,7792774169,SKU1026,Chivita Juice 1L,Beverages,3,1310,0,Bank Transfer
+RCPT-200246,TXN200246,2026-08-06,11:25:00,YABA,TILL-03,Emeka Obi,+2347807803948,SKU1027,Amstel Malta 33cl,Beverages,1,410,0,transfer
+RCPT-200388,TXN200388,2026-08-02,13:38:00,MiniMart Express - Surulere,TILL-01,Fatima Bello,07545856920,SKU1023,Ariel Detergent 900g,Household,1,"₦1,930.00",0,CASH
+RCPT-200019,TXN200019,2026-08-10,12:11:00,SURULERE,TILL-01,Amaka Eze,09049957363,SKU1005,Coca-Cola 50cl,Beverages,2,430,0,Cash
+RCPT-200074,TXN200074,14-08-2026,10:32:00,YABA,TILL-01,Segun Adeyemi,8727082878,SKU1023,Ariel Detergent 900g,Household,5,1640,15,transfer
+RCPT-200093,TXN200093,2026-08-10,15:17:00,MiniMart Express - Yaba,TILL-02,Blessing Nwosu,8089578179,SKU1025,Tom Tom Sweet (pack),Snacks,1,,0,ussd
+RCPT-200136,TXN200136,2026-08-05,11:56:00,SURULERE,TILL-01,Emeka Obi,+2348976693759,SKU1026,Chivita Juice 1L,Beverages,2,1280,10,Cash
+RCPT-200075,TXN200075,2026-08-11,07:43:00,Surulere Branch,TILL-01,Fatima Bello,,SKU1025,Tom Tom Sweet (pack),Snacks,1,280,0,cash
+RCPT-200309,TXN200309,2026-08-01,08:22:00,MiniMart Express - Ikeja,TILL-02,Chidinma Okafor,07441928630,SKU1025,Tom Tom Sweet (pack),Snacks,1,₦320.00,0,transfer
+RCPT-200063,TXN200063,2026-08-09,20:18:00,YABA,TILL-01,Amaka Eze,,SKU1016,Eva Water 75cl,Beverages,4,210,10,ussd
+RCPT-200251,TXN200251,12-08-2026,19:22:00,Surulere Branch,TILL-01,Tunde Bakare,,SKU1008,Milo 400g,Beverages,1,"2,130.00",15,Bank Transfer
+RCPT-200371,TXN200371,2026-08-01,18:18:00,MiniMart Express - Surulere,TILL-01,Emeka Obi,,SKU1023,Ariel Detergent 900g,,2,1690,0,Transfer
+RCPT-200220,TXN200220,2026-08-12,19:13:00,MiniMart Express - Ikeja,TILL-01,Tunde Bakare,8997090694,SKU1004,Dangote Sugar 1kg,Grains & Staples,2,1320,0,ATM Card
+RCPT-200048,TXN200048,2026-08-05,20:05:00,MiniMart Express - Yaba,TILL-02,Fatima Bello,08642583455,SKU1029,Dano Milk Powder 400g,Dairy,2,3040,15,Card
+RCPT-200376,TXN200376,2026-08-14,11:39:00,MiniMart Express - Yaba,TILL-02,Tunde Bakare,7298882760,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,"1,120.00",10,POS Card
+RCPT-200359,TXN200359,2026-08-08,17:34:00,SURULERE,TILL-01,Ibrahim Musa,8351769404,SKU1001,Indomie Noodles 70g,Grains & Staples,1,170,5,Cash
+RCPT-200306,TXN200306,2026-08-11,19:58:00,Ikeja Branch,TILL-01,Blessing Nwosu,08573457584,SKU1017,La Casera 50cl,Beverages,1,400,0,CASH
+RCPT-200333,TXN200333,2026-08-08,13:52:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,,SKU1014,Dettol Soap 65g,Personal Care,1,320,5,POS Card
+RCPT-200321,TXN200321,2026-08-10,12:45:00,MiniMart Express - Surulere,TILL-01,Fatima Bello,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,2,2120,0,CASH
+RCPT-200065,TXN200065,2026-08-04,13:14:00,IKEJA,TILL-01,Emeka Obi,08305271521,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,4,160.00,15,Transfer
+RCPT-200152,TXN200152,2026-08-04,21:09:00,YABA,TILL-03,Emeka Obi,,SKU1028,Semovita 2kg,Grains & Staples,5,2330,0,Cash
+RCPT-200149,TXN200149,2026-08-14,10:08 AM,Ikeja Branch,TILL-01,Fatima Bello,08151589166,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,1,2840,0,transfer
+RCPT-200334,TXN200334,2026-08-06,11:15:00,MiniMart Express - Ikeja,TILL-01,Chidinma Okafor,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,3,2890,0,Bank Transfer
+RCPT-200185,TXN200185,2026-08-04,11:23:00,Surulere Branch,TILL-01,Fatima Bello,07731119994,SKU1021,Bournvita 500g,Beverages,4,"2,480.00",0,Bank Transfer
+RCPT-200074,TXN200074,14-08-2026,10:32:00,Yaba Branch,TILL-01,Segun Adeyemi,8727082878,SKU1006,Bigi Cola 50cl,Beverages,2,320,0,transfer
+RCPT-200267,TXN200267,2026-08-03,10:02:00,MiniMart Express - Yaba,TILL-01,Segun Adeyemi,,SKU1029,Dano Milk Powder 400g,Dairy,3,3220,0,POS
+RCPT-200087,TXN200087,02/08/2026,13:52:00,Surulere Branch,TILL-01,Emeka Obi,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,170,0,USSD
+RCPT-200010,TXN200010,05-08-2026,20:08:00,IKEJA,TILL-02,Chidinma Okafor,07735961558,SKU1002,Peak Milk Evaporated 170g,Dairy,2,630,5,Cash
+RCPT-200148,TXN200148,2026-08-03,08:53:00,MiniMart Express - Yaba,TILL-01,Chidinma Okafor,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,4,3100,15,POS
+RCPT-200310,TXN200310,2026-08-14,18:50:00,YABA,TILL-03,Ibrahim Musa,7841151840,SKU1021,Bournvita 500g,Beverages,3,2510,15,POS Card
+RCPT-200024,TXN200024,2026-08-06,18:00:00,MiniMart Express - Yaba,TILL-01,Blessing Nwosu,,SKU1027,Amstel Malta 33cl,Beverages,2,390.00,5,POS Card
+RCPT-200287,TXN200287,05-08-2026,13:28:00,Yaba Branch,TILL-03,Tunde Bakare,,SKU1014,Dettol Soap 65g,Personal Care,1,₦380.00,10,Transfer
+RCPT-200277,TXN200277,03/08/2026,18:45:00,Yaba Branch,TILL-01,Blessing Nwosu,,SKU1015,Close Up Toothpaste 140ml,,2,₦870.00,0,USSD
+RCPT-200206,TXN200206,2026-08-08,12:55:00,MiniMart Express - Yaba,TILL-03,Blessing Nwosu,,SKU1018,Maltina 33cl,Beverages,3,490,0,Transfer
+RCPT-200398,TXN200398,2026-08-08,14:12:00,Yaba Branch,TILL-01,Fatima Bello,,SKU1001,Indomie Noodles 70g,Grains & Staples,1,160,0,Cash
+RCPT-200103,TXN200103,2026-08-06,10:19:00,SURULERE,TILL-01,Tunde Bakare,08455097720,SKU1027,Amstel Malta 33cl,Beverages,4,370,0,ussd
+RCPT-200216,TXN200216,2026-08-10,13:27:00,IKEJA,TILL-01,Tunde Bakare,,SKU1021,Bournvita 500g,Beverages,2,2180,10,Cash
+RCPT-200344,TXN200344,2026-08-06,12:58:00,Ikeja Branch,TILL-01,Fatima Bello,07049632095,SKU1016,Eva Water 75cl,Beverages,3,190,0,Cash
+RCPT-200289,TXN200289,2026-08-05,17:59:00,Ikeja Branch,TILL-01,Fatima Bello,,SKU1014,Dettol Soap 65g,Personal Care,1,340,5,Cash
+RCPT-200125,TXN200125,2026-08-03,08:10:00,MiniMart Express - Yaba,TILL-03,Ibrahim Musa,,SKU1029,Dano Milk Powder 400g,Dairy,1,3030,10,Cash
+RCPT-200365,TXN200365,2026-08-03,06:04 PM,IKEJA,TILL-01,Blessing Nwosu,09049462379,SKU1020,Cerelac Infant Cereal 400g,Baby Products,3,3090,10,Bank Transfer
+RCPT-200399,TXN200399,2026-08-11,09:55:00,SURULERE,TILL-01,Ibrahim Musa,8467160654,SKU1016,Eva Water 75cl,Beverages,1,200,15,ussd
+RCPT-200212,TXN200212,13/08/2026,17:51:00,MiniMart Express - Ikeja,TILL-01,Amaka Eze,7293372424,SKU1010,Mama Gold Rice 5kg,Grains & Staples,2,7370,0,transfer
+RCPT-200332,TXN200332,2026-08-03,09:32:00,MiniMart Express - Ikeja,TILL-02,Fatima Bello,,SKU1023,Ariel Detergent 900g,Household,2,1750,0,Cash
+RCPT-200322,TXN200322,2026-08-03,20:33:00,MiniMart Express - Ikeja,TILL-02,Ibrahim Musa,,SKU1002,Peak Milk Evaporated 170g,Dairy,1,700,10,Bank Transfer
+RCPT-200323,TXN200323,03-08-2026,21:44:00,MiniMart Express - Surulere,TILL-01,Blessing Nwosu,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,2,2000,0,pos
+RCPT-200128,TXN200128,2026-08-06,19:55:00,MiniMart Express - Yaba,TILL-01,Blessing Nwosu,,SKU1006,Bigi Cola 50cl,Beverages,4,₦390.00,5,Cash
+RCPT-200291,TXN200291,2026-08-05,14:45:00,Surulere Branch,TILL-01,Ibrahim Musa,+2347488597334,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,₦330.00,5,Cash
+RCPT-200078,TXN200078,2026-08-10,10:49:00,MiniMart Express - Yaba,TILL-01,Emeka Obi,,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,310,10,transfer
+RCPT-200363,TXN200363,2026-08-12,12:57:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,2,,10,Cash
+RCPT-200067,TXN200067,2026-08-13,10:11:00,Ikeja Branch,TILL-01,Emeka Obi,,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,4,310,15,POS Card
+RCPT-200162,TXN200162,04-08-2026,17:13:00,Surulere Branch,TILL-01,Fatima Bello,9072524184,SKU1021,Bournvita 500g,Beverages,-2,"₦2,210.00",0,Cash
+RCPT-200340,TXN200340,2026-08-03,16:02:00,MiniMart Express - Surulere,TILL-01,Emeka Obi,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,160.00,0,Bank Transfer
+RCPT-200170,TXN200170,2026-08-10,20:42:00,SURULERE,TILL-01,Tunde Bakare,07591107175,SKU1010,Mama Gold Rice 5kg,Grains & Staples,2,7410,15,Card
+RCPT-200395,TXN200395,2026-08-13,09:01:00,MiniMart Express - Yaba,TILL-02,Emeka Obi,,SKU1023,Ariel Detergent 900g,Household,2,"₦2,000.00",0,Transfer
+RCPT-200141,TXN200141,2026-08-12,19:12:00,Yaba Branch,TILL-01,Tunde Bakare,7365290991,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,,0,POS Card
+RCPT-200394,TXN200394,2026-08-09,16:34:00,IKEJA,TILL-02,Blessing Nwosu,+2347953428382,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,2,4130,0,Bank Transfer
+RCPT-200223,TXN200223,10-08-2026,08:54:00,Surulere Branch,TILL-01,Chidinma Okafor,7343130643,SKU1014,Dettol Soap 65g,Personal Care,1,330,0,Cash
+RCPT-200296,TXN200296,2026-08-07,08:24:00,Ikeja Branch,TILL-01,Emeka Obi,+2347215808819,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,180,0,USSD
+RCPT-200164,TXN200164,02/08/2026,19:18:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,08561083228,SKU1028,Semovita 2kg,Grains & Staples,3,2120,15,pos
+RCPT-200177,TXN200177,2026-08-04,09:53:00,MiniMart Express - Yaba,TILL-03,Tunde Bakare,+2347203176634,SKU1004,Dangote Sugar 1kg,Grains & Staples,2,1200,0,Cash
+RCPT-200351,TXN200351,2026-08-10,17:47:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,,SKU1026,Chivita Juice 1L,Beverages,2,1360,5,transfer
+RCPT-200026,TXN200026,2026-08-08,17:31:00,Yaba Branch,TILL-02,Amaka Eze,07769988427,SKU1016,Eva Water 75cl,Beverages,4,₦200.00,0,Card
+RCPT-200174,TXN200174,08-08-2026,13:37:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,2,4510,0,transfer
+RCPT-200073,TXN200073,2026-08-12,18:34:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,7919878109,SKU1025,Tom Tom Sweet (pack),Snacks,4,320.00,10,Card
+RCPT-200196,TXN200196,2026-08-10,11:55 AM,MiniMart Express - Surulere,TILL-01,Blessing Nwosu,+2347585378458,SKU1027,Amstel Malta 33cl,Beverages,2,360,5,ATM Card
+RCPT-200169,TXN200169,2026-08-01,08:58:00,IKEJA,TILL-01,Tunde Bakare,7582424618,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,190,5,POS Card
+RCPT-200126,TXN200126,2026-08-06,20:47:00,Ikeja Branch,TILL-01,Tunde Bakare,+2348916238009,SKU1014,Dettol Soap 65g,Personal Care,2,340,0,CASH
+RCPT-200229,TXN200229,2026-08-08,17:26:00,SURULERE,TILL-01,Amaka Eze,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,1,3280,0,Cash
+RCPT-200376,TXN200376,2026-08-14,11:39:00,MiniMart Express - Yaba,TILL-02,Tunde Bakare,7298882760,SKU1020,Cerelac Infant Cereal 400g,Baby Products,1,3160,0,POS Card
+RCPT-200206,TXN200206,2026-08-08,12:55:00,YABA,TILL-03,Blessing Nwosu,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,2,2160,10,Transfer
+RCPT-200310,TXN200310,2026-08-14,18:50:00,MiniMart Express - Yaba,TILL-03,Ibrahim Musa,7841151840,SKU1009,Cowbell Milk Powder 360g,Dairy,4,2070,0,POS Card
+RCPT-200157,TXN200157,14-08-2026,21:21:00,SURULERE,TILL-01,Blessing Nwosu,+2347028372691,SKU1007,Gala Sausage Roll,Snacks,2,240,15,POS Card
+RCPT-200117,TXN200117,2026-08-02,10:08:00,MiniMart Express - Yaba,TILL-02,Chidinma Okafor,,SKU1017,La Casera 50cl,Beverages,1,390,0,Cash
+RCPT-200081,TXN200081,2026-08-08,20:21:00,Yaba Branch,TILL-03,Emeka Obi,+2347009035074,SKU1023,Ariel Detergent 900g,Household,2,1890,0,POS Card
+RCPT-200363,TXN200363,2026-08-12,12:57:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,,SKU1016,Eva Water 75cl,Beverages,1,220.00,10,Cash
+RCPT-200378,TXN200378,2026-08-04,11:39:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,,SKU1005,Coca-Cola 50cl,Beverages,2,390,0,CASH
+RCPT-200250,TXN200250,2026-08-02,16:04:00,Surulere Branch,TILL-01,Tunde Bakare,7941541020,SKU1023,Ariel Detergent 900g,Household,1,1830,5,Cash
+RCPT-200397,TXN200397,2026-08-09,20:28:00,MiniMart Express - Ikeja,TILL-01,Fatima Bello,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,3,180,0,POS Card
+RCPT-200361,TXN200361,2026-08-07,17:24:00,MiniMart Express - Surulere,TILL-01,Emeka Obi,9009233948,SKU1007,Gala Sausage Roll,Snacks,3,250,0,Bank Transfer
+RCPT-200140,TXN200140,2026-08-11,17:43:00,YABA,TILL-03,Chidinma Okafor,,SKU1001,Indomie Noodles 70g,Grains & Staples,2,150,0,transfer
+RCPT-200214,TXN200214,11/08/2026,18:25:00,IKEJA,TILL-01,Fatima Bello,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,2,2070,0,CASH
+RCPT-200295,TXN200295,2026-08-06,07:11 PM,IKEJA,TILL-02,Tunde Bakare,,SKU1025,Tom Tom Sweet (pack),Snacks,3,340,0,pos
+RCPT-200025,TXN200025,2026-08-13,17:21:00,Yaba Branch,TILL-01,Tunde Bakare,08366305379,SKU1003,Golden Morn 500g,Grains & Staples,3,1660,0,ussd
+RCPT-200257,TXN200257,13/08/2026,11:54:00,MiniMart Express - Ikeja,TILL-02,Segun Adeyemi,,SKU1021,Bournvita 500g,Beverages,2,"2,240.00",5,USSD
+RCPT-200080,TXN200080,2026-08-14,13:43:00,YABA,TILL-02,Tunde Bakare,7553128059,SKU1003,Golden Morn 500g,Grains & Staples,1,1600,10,transfer
+RCPT-200032,TXN200032,12-08-2026,10:21:00,MiniMart Express - Ikeja,TILL-02,Chidinma Okafor,+2349004443106,SKU1006,Bigi Cola 50cl,,1,₦320.00,0,POS
+RCPT-200377,TXN200377,05/08/2026,08:09:00,Ikeja Branch,TILL-02,Segun Adeyemi,,SKU1028,Semovita 2kg,Grains & Staples,1,2260,10,POS Card
+RCPT-200102,TXN200102,2026-08-05,16:22:00,IKEJA,TILL-01,Emeka Obi,+2347789731598,SKU1013,Omo Detergent 900g,Household,1,1760,0,Transfer
+RCPT-200250,TXN200250,2026-08-02,16:04:00,Surulere Branch,TILL-01,,7941541020,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,4,2690,15,Cash
+RCPT-200342,TXN200342,2026-08-01,07:03:00,MiniMart Express - Yaba,TILL-03,Amaka Eze,7945507729,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,1290,0,ussd
+RCPT-200279,TXN200279,2026-08-09,13:47:00,Surulere Branch,TILL-01,Emeka Obi,,SKU1015,Close Up Toothpaste 140ml,Personal Care,2,900,5,POS Card
+RCPT-200200,TXN200200,2026-08-09,17:15:00,Yaba Branch,TILL-03,Fatima Bello,,SKU1006,Bigi Cola 50cl,Beverages,1,370,5,Bank Transfer
+RCPT-200249,TXN200249,2026-08-11,19:29:00,MiniMart Express - Yaba,TILL-02,Tunde Bakare,7217947895,SKU1028,Semovita 2kg,Grains & Staples,1,2250,10,cash
+RCPT-200262,TXN200262,14-08-2026,18:31:00,Surulere Branch,TILL-01,Amaka Eze,8408778455,SKU1027,Amstel Malta 33cl,Beverages,1,420,10,transfer
+RCPT-200241,TXN200241,2026-08-07,12:57:00,MiniMart Express - Ikeja,TILL-02,Tunde Bakare,+2348647389831,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,1,2820,15,ATM Card
+RCPT-200057,TXN200057,2026-08-02,08:42:00,Surulere Branch,TILL-01,Amaka Eze,7826344763,SKU1028,Semovita 2kg,Grains & Staples,4,"₦2,020.00",0,ussd
+RCPT-200247,TXN200247,2026-08-12,13:49:00,MiniMart Express - Surulere,TILL-01,Tunde Bakare,8123359066,SKU1016,Eva Water 75cl,Beverages,1,180,0,Cash
+RCPT-200314,TXN200314,2026-08-08,13:07:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,8658546557,SKU1026,Chivita Juice 1L,Beverages,1,1200,0,POS
+RCPT-200284,TXN200284,2026-08-09,13:18:00,Ikeja Branch,TILL-02,Emeka Obi,,SKU1009,Cowbell Milk Powder 360g,Dairy,2,2020,0,Bank Transfer
+RCPT-200290,TXN200290,2026-08-01,09:26:00,Ikeja Branch,TILL-01,Fatima Bello,7971157476,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,1,2530,0,Cash
+RCPT-200164,TXN200164,2026-08-02,19:18:00,Surulere Branch,TILL-01,Chidinma Okafor,08561083228,SKU1027,Amstel Malta 33cl,Beverages,2,410,15,pos
+RCPT-200246,TXN200246,06/08/2026,11:25:00,Yaba Branch,TILL-03,Emeka Obi,+2347807803948,SKU1020,Cerelac Infant Cereal 400g,Baby Products,3,3220,10,transfer
+RCPT-200224,TXN200224,2026-08-01,16:39:00,YABA,TILL-03,Blessing Nwosu,07249700438,SKU1021,Bournvita 500g,Beverages,1,2720,0,Bank Transfer
+RCPT-200101,TXN200101,2026-08-14,20:40:00,Ikeja Branch,TILL-02,Tunde Bakare,08938765293,SKU1005,Coca-Cola 50cl,Beverages,2,370,5,pos
+RCPT-200377,TXN200377,2026-08-05,08:09:00,MiniMart Express - Ikeja,TILL-02,Segun Adeyemi,,SKU1023,Ariel Detergent 900g,Household,3,1630,0,POS Card
+RCPT-200034,TXN200034,2026-08-13,14:15:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,+2348552823921,SKU1006,Bigi Cola 50cl,Beverages,2,,0,Cash
+RCPT-200236,TXN200236,2026-08-01,13:27:00,Surulere Branch,TILL-01,Fatima Bello,8585985542,SKU1023,Ariel Detergent 900g,Household,3,1970,0,Cash
+RCPT-200259,TXN200259,2026-08-05,17:33:00,Surulere Branch,TILL-01,Tunde Bakare,+2348659772811,SKU1025,Tom Tom Sweet (pack),Snacks,1,340,0,Cash
+RCPT-200351,TXN200351,2026-08-10,17:47:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,3,,0,transfer
+RCPT-200097,TXN200097,2026-08-04,18:49:00,MiniMart Express - Yaba,TILL-03,Emeka Obi,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,2,1890,0,Transfer
+RCPT-200330,TXN200330,2026-08-01,09:39:00,YABA,TILL-02,Fatima Bello,,SKU1004,Dangote Sugar 1kg,,1,1180,0,POS Card
+RCPT-200155,TXN200155,2026-08-12,12:33:00,IKEJA,TILL-01,Ibrahim Musa,8078631945,SKU1008,Milo 400g,Beverages,1,2390,10,POS Card
+RCPT-200341,TXN200341,2026-08-06,21:57:00,Ikeja Branch,TILL-01,Segun Adeyemi,07363264991,SKU1016,Eva Water 75cl,Beverages,1,180,0,POS Card
+RCPT-200251,TXN200251,2026-08-12,19:22:00,Surulere Branch,TILL-01,Tunde Bakare,,SKU1025,Tom Tom Sweet (pack),Snacks,5,280,0,Bank Transfer
+RCPT-200100,TXN200100,10-08-2026,15:21:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,,SKU1002,Peak Milk Evaporated 170g,Dairy,1,700,0,Bank Transfer
+RCPT-200357,TXN200357,13-08-2026,17:41:00,MiniMart Express - Ikeja,TILL-01,Blessing Nwosu,,SKU1017,La Casera 50cl,Beverages,2,400,10,transfer
+RCPT-200269,TXN200269,2026-08-10,08:01 AM,Yaba Branch,TILL-02,Amaka Eze,+2347519185869,SKU1008,Milo 400g,,2,2200,0,POS Card
+RCPT-200113,TXN200113,04-08-2026,17:33:00,MiniMart Express - Ikeja,TILL-02,Emeka Obi,07504398166,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,₦160.00,0,Transfer
+RCPT-200294,TXN200294,11-08-2026,13:52:00,MiniMart Express - Yaba,TILL-03,Fatima Bello,+2347713027091,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,1200,15,Cash
+RCPT-200025,TXN200025,2026-08-13,17:21:00,YABA,TILL-01,Tunde Bakare,08366305379,SKU1008,Milo 400g,Beverages,2,2120,0,ussd
+RCPT-200373,TXN200373,2026-08-01,17:26:00,IKEJA,TILL-02,Segun Adeyemi,,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,2,4140,15,ussd
+RCPT-200123,TXN200123,06/08/2026,15:12:00,Surulere Branch,TILL-01,,,SKU1029,Dano Milk Powder 400g,Dairy,3,2820,10,POS Card
+RCPT-200036,TXN200036,2026-08-06,12:44:00,SURULERE,TILL-01,Ibrahim Musa,+2348643002325,SKU1007,Gala Sausage Roll,Snacks,1,270.00,15,Bank Transfer
+RCPT-200110,TXN200110,2026-08-09,14:31:00,Surulere Branch,TILL-01,Blessing Nwosu,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,1,2190,0,POS Card
+RCPT-200112,TXN200112,2026-08-05,14:31:00,Ikeja Branch,TILL-02,Ibrahim Musa,08472122088,SKU1016,Eva Water 75cl,Beverages,2,230,15,Bank Transfer
+RCPT-200195,TXN200195,2026-08-03,08:58:00,IKEJA,TILL-02,Chidinma Okafor,07907702778,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,3,280,5,USSD
+RCPT-200325,TXN200325,2026-08-12,10:52:00,Surulere Branch,TILL-01,Blessing Nwosu,7555901448,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,2,4230,0,Bank Transfer
+RCPT-200226,TXN200226,2026-08-11,19:50:00,Surulere Branch,TILL-01,Ibrahim Musa,,SKU1009,Cowbell Milk Powder 360g,Dairy,1,2030,5,ATM Card
+RCPT-200344,TXN200344,2026-08-06,12:58 PM,MiniMart Express - Ikeja,TILL-01,Fatima Bello,07049632095,SKU1014,Dettol Soap 65g,Personal Care,1,320,5,Cash
+RCPT-200003,TXN200003,05-08-2026,15:52:00,Ikeja Branch,TILL-01,Emeka Obi,+2347908988360,SKU1020,Cerelac Infant Cereal 400g,Baby Products,1,2970,0,Cash
+RCPT-200143,TXN200143,2026-08-02,17:33:00,Ikeja Branch,TILL-01,Amaka Eze,,SKU1021,Bournvita 500g,Beverages,3,"₦2,390.00",5,cash
+RCPT-200330,TXN200330,2026-08-01,09:39:00,MiniMart Express - Yaba,TILL-02,Fatima Bello,,SKU1018,Maltina 33cl,Beverages,2,520,0,POS Card
+RCPT-200213,TXN200213,2026-08-06,14:47:00,Yaba Branch,TILL-03,Emeka Obi,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,2,5870,0,Cash
+RCPT-200125,TXN200125,03-08-2026,08:10:00,YABA,TILL-03,Ibrahim Musa,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,2,2100,0,Cash
+RCPT-200007,TXN200007,2026-08-07,11:35 AM,MiniMart Express - Ikeja,TILL-01,Chidinma Okafor,+2348815952173,SKU1009,Cowbell Milk Powder 360g,Dairy,2,1880,0,Bank Transfer
+RCPT-200217,TXN200217,2026-08-09,18:07:00,MiniMart Express - Yaba,TILL-03,Fatima Bello,8749028212,SKU1018,Maltina 33cl,Beverages,5,420,0,CASH
+RCPT-200393,TXN200393,07/08/2026,18:36:00,Ikeja Branch,TILL-02,Amaka Eze,08966225347,SKU1018,Maltina 33cl,Beverages,2,440,0,USSD
+RCPT-200045,TXN200045,2026-08-08,20:26:00,Surulere Branch,TILL-01,Segun Adeyemi,,SKU1015,Close Up Toothpaste 140ml,Personal Care,1,900,0,POS Card
+RCPT-200027,TXN200027,2026-08-08,11:22:00,Ikeja Branch,TILL-01,Amaka Eze,+2347886664830,SKU1004,Dangote Sugar 1kg,Grains & Staples,2,1340,0,CASH
+RCPT-200293,TXN200293,2026-08-14,10:28:00,MiniMart Express - Ikeja,TILL-02,Blessing Nwosu,7711973570,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,4,330,0,Bank Transfer
+RCPT-200233,TXN200233,2026-08-03,19:29:00,Surulere Branch,TILL-01,Chidinma Okafor,08472748668,SKU1017,La Casera 50cl,Beverages,2,380,0,Bank Transfer
+RCPT-200015,TXN200015,03-08-2026,18:06:00,Ikeja Branch,TILL-01,Blessing Nwosu,,SKU1021,Bournvita 500g,Beverages,1,2670,15,Cash
+RCPT-200184,TXN200184,2026-08-02,13:00:00,Surulere Branch,TILL-01,Ibrahim Musa,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,1,1760,5,ATM Card
+RCPT-200089,TXN200089,2026-08-10,18:24:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,08836556316,SKU1025,Tom Tom Sweet (pack),Snacks,1,330,0,POS
+RCPT-200378,TXN200378,04/08/2026,11:39:00,SURULERE,TILL-01,Segun Adeyemi,,SKU1029,Dano Milk Powder 400g,Dairy,4,,0,CASH
+RCPT-200097,TXN200097,2026-08-04,18:49:00,MiniMart Express - Yaba,TILL-03,Emeka Obi,,SKU1019,Titus Sardine 125g,Canned Foods,1,680,5,Transfer
+RCPT-200249,TXN200249,2026-08-11,19:29:00,YABA,TILL-02,Tunde Bakare,7217947895,SKU1027,Amstel Malta 33cl,Beverages,3,420,10,cash
+RCPT-200042,TXN200042,09/08/2026,12:02:00,MiniMart Express - Ikeja,TILL-01,Chidinma Okafor,,SKU1005,Coca-Cola 50cl,Beverages,1,370,5,USSD
+RCPT-200261,TXN200261,2026-08-06,14:54:00,MiniMart Express - Surulere,TILL-01,Tunde Bakare,,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,4,2560,0,Transfer
+RCPT-200350,TXN200350,2026-08-09,21:39:00,MiniMart Express - Yaba,TILL-01,Ibrahim Musa,8898998954,SKU1029,Dano Milk Powder 400g,Dairy,4,2670,0,Bank Transfer
+RCPT-200312,TXN200312,13-08-2026,19:15:00,SURULERE,TILL-01,Fatima Bello,+2348366140907,SKU1016,Eva Water 75cl,Beverages,2,190,15,Cash
+RCPT-200059,TXN200059,2026-08-14,10:40:00,MiniMart Express - Yaba,TILL-02,Amaka Eze,,SKU1015,Close Up Toothpaste 140ml,Personal Care,4,880,0,POS Card
+RCPT-200388,TXN200388,2026-08-02,13:38:00,SURULERE,TILL-01,Fatima Bello,07545856920,SKU1016,Eva Water 75cl,Beverages,1,230,0,CASH
+RCPT-200098,TXN200098,2026-08-05,13:47:00,Surulere Branch,TILL-01,,8628406089,SKU1001,Indomie Noodles 70g,Grains & Staples,1,160,0,POS Card
+RCPT-200060,TXN200060,2026-08-08,09:37:00,MiniMart Express - Yaba,TILL-03,Blessing Nwosu,+2348976025322,SKU1005,Coca-Cola 50cl,Beverages,2,390.00,0,POS Card
+RCPT-200247,TXN200247,2026-08-12,13:49:00,SURULERE,TILL-01,Tunde Bakare,8123359066,SKU1010,Mama Gold Rice 5kg,Grains & Staples,3,"₦6,200.00",10,Cash
+RCPT-200315,TXN200315,2026-08-09,15:52:00,Yaba Branch,TILL-01,Segun Adeyemi,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,5,3170,0,Cash
+RCPT-200027,TXN200027,08-08-2026,11:22:00,MiniMart Express - Ikeja,TILL-01,Amaka Eze,+2347886664830,SKU1006,Bigi Cola 50cl,Beverages,3,380,0,CASH
+RCPT-200192,TXN200192,2026-08-10,12:35:00,Ikeja Branch,TILL-02,Chidinma Okafor,,SKU1001,Indomie Noodles 70g,Grains & Staples,1,160.00,0,ATM Card
+RCPT-200168,TXN200168,2026-08-05,15:02:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,+2348282235855,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,2,320,0,POS Card
+RCPT-200210,TXN200210,2026-08-14,11:12:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,09016641043,SKU1009,Cowbell Milk Powder 360g,Dairy,1,1840,10,Cash
+RCPT-200390,TXN200390,2026-08-01,20:16:00,YABA,TILL-03,Segun Adeyemi,,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,5,,15,Cash
+RCPT-200302,TXN200302,2026-08-14,11:59:00,YABA,TILL-01,Ibrahim Musa,08194346901,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,2,4390,15,CASH
+RCPT-200221,TXN200221,2026-08-03,14:33:00,MiniMart Express - Ikeja,TILL-01,Tunde Bakare,+2348104116690,SKU1029,Dano Milk Powder 400g,Dairy,3,3190,0,Transfer
+RCPT-200391,TXN200391,2026-08-08,08:01:00,MiniMart Express - Ikeja,TILL-02,Fatima Bello,,SKU1028,Semovita 2kg,Grains & Staples,1,"₦2,000.00",0,Transfer
+RCPT-200065,TXN200065,2026-08-04,13:14:00,MiniMart Express - Ikeja,TILL-01,Emeka Obi,08305271521,SKU1030,Nasco Cornflakes 500g,Grains & Staples,1,1970,5,Transfer
+RCPT-200358,TXN200358,2026-08-13,20:57:00,MiniMart Express - Ikeja,TILL-02,Fatima Bello,,SKU1029,Dano Milk Powder 400g,Dairy,1,3100,10,USSD
+RCPT-200022,TXN200022,09/08/2026,21:41:00,Yaba Branch,TILL-01,Segun Adeyemi,+2347909985918,SKU1001,Indomie Noodles 70g,Grains & Staples,1,150,15,Cash
+RCPT-200131,TXN200131,13/08/2026,14:34:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,4,2510,5,pos
+RCPT-200054,TXN200054,2026-08-12,19:15:00,IKEJA,TILL-02,Ibrahim Musa,8549039930,SKU1017,La Casera 50cl,Beverages,2,320,0,USSD
+RCPT-200156,TXN200156,10-08-2026,14:04:00,MiniMart Express - Yaba,TILL-03,Amaka Eze,8755647602,SKU1003,Golden Morn 500g,Grains & Staples,2,1400,0,Cash
+RCPT-200383,TXN200383,2026-08-14,17:26:00,YABA,TILL-03,Tunde Bakare,,SKU1009,Cowbell Milk Powder 360g,Dairy,1,1810,10,Cash
+RCPT-200163,TXN200163,2026-08-09,18:29:00,MiniMart Express - Yaba,TILL-02,Ibrahim Musa,,SKU1008,Milo 400g,Beverages,1,2080,10,Bank Transfer
+RCPT-200169,TXN200169,2026-08-01,08:58:00,Ikeja Branch,TILL-01,Tunde Bakare,7582424618,SKU1028,Semovita 2kg,Grains & Staples,3,2010,0,POS Card
+RCPT-200289,TXN200289,2026-08-05,17:59:00,IKEJA,TILL-01,Fatima Bello,,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,2,4430,0,Cash
+RCPT-200268,TXN200268,2026-08-14,20:46:00,IKEJA,TILL-02,Amaka Eze,,SKU1023,Ariel Detergent 900g,Household,1,1970,5,Bank Transfer
+RCPT-200222,TXN200222,2026-08-04,08:27:00,IKEJA,TILL-01,Fatima Bello,07819910621,SKU1011,Honeywell Semolina 2kg,Grains & Staples,1,2270,5,POS Card
+RCPT-200180,TXN200180,2026-08-13,09:04:00,MiniMart Express - Ikeja,TILL-01,Chidinma Okafor,,SKU1023,Ariel Detergent 900g,Household,5,"₦1,970.00",15,Bank Transfer
+RCPT-200173,TXN200173,2026-08-09,19:35:00,MiniMart Express - Yaba,TILL-02,Fatima Bello,,SKU1028,Semovita 2kg,Grains & Staples,1,2400,10,Cash
+RCPT-200226,TXN200226,2026-08-11,19:50:00,SURULERE,TILL-01,Ibrahim Musa,,SKU1006,Bigi Cola 50cl,Beverages,1,400,10,ATM Card
+RCPT-200023,TXN200023,2026-08-10,07:34 PM,MiniMart Express - Ikeja,TILL-01,Segun Adeyemi,8707960905,SKU1016,Eva Water 75cl,Beverages,1,190,0,cash
+RCPT-200083,TXN200083,2026-08-11,10:04:00,Yaba Branch,TILL-03,Segun Adeyemi,7985676253,SKU1020,Cerelac Infant Cereal 400g,Baby Products,1,3350,10,POS Card
+RCPT-200356,TXN200356,2026-08-14,08:18:00,SURULERE,TILL-01,Amaka Eze,,SKU1003,Golden Morn 500g,Grains & Staples,1,1590,5,Cash
+RCPT-200197,TXN200197,06-08-2026,10:23:00,MiniMart Express - Yaba,TILL-02,Amaka Eze,,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,3,"₦5,100.00",0,USSD
+RCPT-200119,TXN200119,03-08-2026,18:18:00,Surulere Branch,TILL-01,Blessing Nwosu,07293109700,SKU1015,Close Up Toothpaste 140ml,Personal Care,4,970.00,0,Cash
+RCPT-200311,TXN200311,2026-08-07,08:56:00,SURULERE,TILL-01,Ibrahim Musa,8667894103,SKU1018,Maltina 33cl,Beverages,5,₦460.00,5,Cash
+RCPT-200343,TXN200343,2026-08-14,19:15:00,MiniMart Express - Surulere,TILL-01,Tunde Bakare,08722476083,SKU1030,Nasco Cornflakes 500g,Grains & Staples,5,1720,15,CASH
+RCPT-200109,TXN200109,08/08/2026,12:55:00,Yaba Branch,TILL-02,Segun Adeyemi,,SKU1027,Amstel Malta 33cl,Beverages,2,390,0,Transfer
+RCPT-200374,TXN200374,2026-08-07,19:04:00,YABA,TILL-01,Ibrahim Musa,+2347477004071,SKU1014,Dettol Soap 65g,Personal Care,3,350,0,transfer
+RCPT-200314,TXN200314,2026-08-08,13:07:00,Surulere Branch,TILL-01,Amaka Eze,8658546557,SKU1008,Milo 400g,Beverages,1,2100,0,POS
+RCPT-200100,TXN200100,2026-08-10,15:21:00,Surulere Branch,TILL-01,Amaka Eze,,SKU1017,La Casera 50cl,Beverages,3,390,0,Bank Transfer
+RCPT-200043,TXN200043,2026-08-06,15:33:00,Ikeja Branch,TILL-01,Ibrahim Musa,,SKU1015,Close Up Toothpaste 140ml,Personal Care,3,940,0,Card
+RCPT-200084,TXN200084,11/08/2026,12:27:00,MiniMart Express - Surulere,TILL-01,Blessing Nwosu,7031103026,SKU1027,Amstel Malta 33cl,Beverages,4,440,0,POS Card
+RCPT-200124,TXN200124,03/08/2026,11:24:00,Yaba Branch,TILL-01,Ibrahim Musa,,SKU1015,Close Up Toothpaste 140ml,Personal Care,5,"₦1,010.00",5,USSD
+RCPT-200384,TXN200384,07-08-2026,19:30:00,Yaba Branch,TILL-01,Fatima Bello,,SKU1017,La Casera 50cl,Beverages,1,370,0,Bank Transfer
+RCPT-200026,TXN200026,2026-08-08,17:31:00,MiniMart Express - Yaba,TILL-02,Amaka Eze,07769988427,SKU1002,Peak Milk Evaporated 170g,Dairy,3,740,15,Card
+RCPT-200272,TXN200272,08-08-2026,21:56:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,+2348566996056,SKU1018,Maltina 33cl,Beverages,3,520,10,Cash
+RCPT-200286,TXN200286,2026-08-06,18:40:00,MiniMart Express - Yaba,TILL-01,Segun Adeyemi,,SKU1023,Ariel Detergent 900g,Household,2,1710,15,transfer
+RCPT-200008,TXN200008,2026-08-03,19:03:00,SURULERE,TILL-01,Blessing Nwosu,+2348064852051,SKU1009,Cowbell Milk Powder 360g,Dairy,2,"1,970.00",0,Cash
+RCPT-200268,TXN200268,2026-08-14,20:46:00,Ikeja Branch,TILL-02,Amaka Eze,,SKU1014,Dettol Soap 65g,Personal Care,2,360,15,Bank Transfer
+RCPT-200082,TXN200082,2026-08-03,12:54:00,MiniMart Express - Yaba,TILL-01,Amaka Eze,,SKU1028,Semovita 2kg,Grains & Staples,1,2300,0,POS Card
+RCPT-200222,TXN200222,2026-08-04,08:27:00,Ikeja Branch,TILL-01,Fatima Bello,07819910621,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,1,4400,10,POS Card
+RCPT-200021,TXN200021,2026-08-03,05:53 PM,Yaba Branch,TILL-02,Amaka Eze,,SKU1028,Semovita 2kg,Grains & Staples,3,2010,0,ussd
+RCPT-200266,TXN200266,2026-08-11,01:13 PM,Yaba Branch,TILL-01,Emeka Obi,,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,1330,5,Cash
+RCPT-200335,TXN200335,2026-08-08,17:00:00,IKEJA,TILL-01,Fatima Bello,+2349006630774,SKU1013,Omo Detergent 900g,Household,2,"₦1,610.00",0,Cash
+RCPT-200283,TXN200283,14-08-2026,17:34:00,Ikeja Branch,TILL-02,Segun Adeyemi,07981478242,SKU1030,Nasco Cornflakes 500g,Grains & Staples,1,"1,940.00",0,ATM Card
+RCPT-200383,TXN200383,2026-08-14,17:26:00,Yaba Branch,TILL-03,Tunde Bakare,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,190,0,Cash
+RCPT-200148,TXN200148,2026-08-03,08:53:00,MiniMart Express - Yaba,TILL-01,Chidinma Okafor,,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,2,₦330.00,0,POS
+RCPT-200151,TXN200151,2026-08-07,15:36:00,Ikeja Branch,TILL-01,Blessing Nwosu,8424521726,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,2,4370,5,Card
+RCPT-200261,TXN200261,2026-08-06,14:54:00,MiniMart Express - Surulere,TILL-01,Tunde Bakare,,SKU1001,Indomie Noodles 70g,Grains & Staples,2,160,0,Transfer
+RCPT-200336,TXN200336,2026-08-02,18:48:00,Yaba Branch,TILL-02,Chidinma Okafor,07381724556,SKU1014,Dettol Soap 65g,Personal Care,1,₦360.00,0,POS Card
+RCPT-200077,TXN200077,08-08-2026,17:43:00,Ikeja Branch,TILL-01,Ibrahim Musa,+2349011121669,SKU1020,Cerelac Infant Cereal 400g,Baby Products,2,"₦3,640.00",5,Cash
+RCPT-200368,TXN200368,2026-08-13,17:56:00,SURULERE,TILL-01,Ibrahim Musa,+2347811520890,SKU1009,Cowbell Milk Powder 360g,Dairy,2,"₦2,010.00",10,Bank Transfer
+RCPT-200101,TXN200101,14/08/2026,20:40:00,IKEJA,TILL-02,Tunde Bakare,08938765293,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,320.00,10,pos
+RCPT-200323,TXN200323,2026-08-03,21:44:00,Surulere Branch,TILL-01,Blessing Nwosu,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,2,3000,10,pos
+RCPT-200245,TXN200245,04/08/2026,07:52:00,MiniMart Express - Yaba,TILL-02,Segun Adeyemi,,SKU1007,Gala Sausage Roll,Snacks,1,270.00,0,Cash
+RCPT-200146,TXN200146,2026-08-04,09:55:00,YABA,TILL-03,Fatima Bello,,SKU1009,Cowbell Milk Powder 360g,Dairy,2,"1,740.00",0,cash
+RCPT-200266,TXN200266,2026-08-11,13:13:00,Yaba Branch,TILL-01,Emeka Obi,,SKU1026,Chivita Juice 1L,Beverages,1,1260,10,Cash
+RCPT-200155,TXN200155,12-08-2026,12:33:00,IKEJA,TILL-01,Ibrahim Musa,8078631945,SKU1014,Dettol Soap 65g,Personal Care,3,400,0,POS Card
+RCPT-200232,TXN200232,2026-08-02,11:45:00,MiniMart Express - Surulere,TILL-01,Ibrahim Musa,,SKU1007,Gala Sausage Roll,Snacks,2,230,0,Cash
+RCPT-200284,TXN200284,2026-08-09,13:18:00,MiniMart Express - Ikeja,TILL-02,Emeka Obi,,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,330,10,Bank Transfer
+RCPT-200048,TXN200048,2026-08-05,20:05:00,Yaba Branch,TILL-02,Fatima Bello,08642583455,SKU1018,Maltina 33cl,Beverages,1,510,0,Card
+RCPT-200113,TXN200113,2026-08-04,17:33:00,MiniMart Express - Ikeja,TILL-02,Emeka Obi,07504398166,SKU1003,Golden Morn 500g,Grains & Staples,4,"₦1,500.00",0,Transfer
+RCPT-200239,TXN200239,03-08-2026,09:07:00,MiniMart Express - Yaba,TILL-03,Amaka Eze,,SKU1005,Coca-Cola 50cl,Beverages,2,370,5,Transfer
+RCPT-200167,TXN200167,2026-08-06,15:18:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,,SKU1023,Ariel Detergent 900g,Household,1,1930,0,POS Card
+RCPT-200227,TXN200227,2026-08-11,09:30:00,Ikeja Branch,TILL-02,Emeka Obi,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,4,6290,0,POS Card
+RCPT-200317,TXN200317,2026-08-09,10:11 AM,Surulere Branch,TILL-01,Ibrahim Musa,+2348457399586,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,5940,0,transfer
+RCPT-200150,TXN200150,2026-08-05,07:31:00,Surulere Branch,TILL-01,,,SKU1025,Tom Tom Sweet (pack),Snacks,2,300,10,cash
+RCPT-200234,TXN200234,2026-08-14,11:46:00,YABA,TILL-01,Ibrahim Musa,,SKU1009,Cowbell Milk Powder 360g,Dairy,1,"1,880.00",0,USSD
+RCPT-200361,TXN200361,2026-08-07,17:24:00,SURULERE,TILL-01,Emeka Obi,9009233948,SKU1002,Peak Milk Evaporated 170g,Dairy,3,610,10,Bank Transfer
+RCPT-200330,TXN200330,01-08-2026,09:39:00,MiniMart Express - Yaba,TILL-02,Fatima Bello,,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,1,2610,0,POS Card
+RCPT-200140,TXN200140,2026-08-11,17:43:00,YABA,TILL-03,Chidinma Okafor,,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,2,"2,680.00",10,transfer
+RCPT-200126,TXN200126,2026-08-06,20:47:00,MiniMart Express - Ikeja,TILL-01,Tunde Bakare,+2348916238009,SKU1007,Gala Sausage Roll,Snacks,1,290,0,CASH
+RCPT-200159,TXN200159,04-08-2026,18:50:00,SURULERE,TILL-01,Chidinma Okafor,8516454349,SKU1007,Gala Sausage Roll,Snacks,2,₦280.00,0,Transfer
+RCPT-200073,TXN200073,2026-08-12,18:34:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,7919878109,SKU1002,Peak Milk Evaporated 170g,Dairy,1,,10,Card
+RCPT-200299,TXN200299,2026-08-06,13:27:00,MiniMart Express - Yaba,TILL-02,Blessing Nwosu,8509839097,SKU1005,Coca-Cola 50cl,Beverages,1,410,0,Bank Transfer
+RCPT-200160,TXN200160,12-08-2026,12:37:00,YABA,TILL-03,Chidinma Okafor,7092069406,SKU1007,Gala Sausage Roll,Snacks,1,,0,pos
+RCPT-200066,TXN200066,2026-08-06,11:41:00,IKEJA,TILL-02,Blessing Nwosu,08833434205,SKU1029,Dano Milk Powder 400g,Dairy,4,3300,0,cash
+RCPT-200333,TXN200333,2026-08-08,13:52:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,,SKU1008,Milo 400g,Beverages,2,1920,5,POS Card
+RCPT-200295,TXN200295,2026-08-06,19:11:00,MiniMart Express - Ikeja,TILL-02,Tunde Bakare,,SKU1028,Semovita 2kg,,1,2050,0,pos
+RCPT-200247,TXN200247,2026-08-12,13:49:00,SURULERE,TILL-01,Tunde Bakare,8123359066,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,4,4720,5,Cash
+RCPT-200369,TXN200369,2026-08-11,13:50:00,IKEJA,TILL-02,Chidinma Okafor,08518580674,SKU1020,Cerelac Infant Cereal 400g,Baby Products,5,"3,450.00",5,POS Card
+RCPT-200355,TXN200355,2026-08-08,20:42:00,Ikeja Branch,TILL-01,Blessing Nwosu,08398120431,SKU1011,Honeywell Semolina 2kg,Grains & Staples,2,2370,15,POS Card
+RCPT-200287,TXN200287,05-08-2026,13:28:00,Yaba Branch,TILL-03,Tunde Bakare,,SKU1029,Dano Milk Powder 400g,Dairy,2,"3,080.00",5,Transfer
+RCPT-200272,TXN200272,2026-08-08,21:56:00,IKEJA,TILL-01,Ibrahim Musa,+2348566996056,SKU1025,Tom Tom Sweet (pack),Snacks,4,,5,Cash
+RCPT-200178,TXN200178,2026-08-04,19:21:00,YABA,TILL-02,Tunde Bakare,08149528427,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,5,4390,10,Cash
+RCPT-200102,TXN200102,2026-08-05,16:22:00,MiniMart Express - Ikeja,TILL-01,Emeka Obi,+2347789731598,SKU1025,Tom Tom Sweet (pack),Snacks,1,270,15,Transfer
+RCPT-200312,TXN200312,2026-08-13,19:15:00,Surulere Branch,TILL-01,Fatima Bello,+2348366140907,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,3,"4,300.00",0,Cash
+RCPT-200362,TXN200362,2026-08-06,12:18:00,YABA,TILL-03,Emeka Obi,7758785708,SKU1017,La Casera 50cl,Beverages,1,370,15,Cash
+RCPT-200261,TXN200261,2026-08-06,14:54:00,MiniMart Express - Surulere,TILL-01,Tunde Bakare,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,1,2630,0,Transfer
+RCPT-200217,TXN200217,2026-08-09,18:07:00,YABA,TILL-03,Fatima Bello,8749028212,SKU1009,Cowbell Milk Powder 360g,Dairy,5,1730,0,CASH
+RCPT-200097,TXN200097,2026-08-04,18:49:00,MiniMart Express - Yaba,TILL-03,Emeka Obi,,SKU1016,Eva Water 75cl,,2,230,10,Transfer
+RCPT-200207,TXN200207,10-08-2026,09:19:00,Yaba Branch,TILL-01,Chidinma Okafor,8836207284,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,1130,5,Transfer
+RCPT-200317,TXN200317,09/08/2026,10:11:00,Surulere Branch,TILL-01,Ibrahim Musa,+2348457399586,SKU1008,Milo 400g,Beverages,1,2090,0,transfer
+RCPT-200353,TXN200353,2026-08-07,09:02:00,MiniMart Express - Surulere,TILL-01,Ibrahim Musa,8634278473,SKU1026,Chivita Juice 1L,Beverages,1,1270,0,ATM Card
+RCPT-200329,TXN200329,2026-08-06,17:27:00,MiniMart Express - Surulere,TILL-01,,,SKU1002,Peak Milk Evaporated 170g,Dairy,2,650,10,POS Card
+RCPT-200066,TXN200066,06/08/2026,11:41:00,MiniMart Express - Ikeja,TILL-02,,08833434205,SKU1030,Nasco Cornflakes 500g,,1,"₦1,870.00",0,cash
+RCPT-200358,TXN200358,2026-08-13,20:57:00,Ikeja Branch,TILL-02,Fatima Bello,,SKU1027,Amstel Malta 33cl,Beverages,4,440,0,USSD
+RCPT-200063,TXN200063,2026-08-09,20:18:00,YABA,TILL-01,Amaka Eze,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,170,10,ussd
+RCPT-200005,TXN200005,2026-08-09,09:57:00,SURULERE,TILL-01,Emeka Obi,,SKU1027,Amstel Malta 33cl,Beverages,1,460.00,10,Transfer
+RCPT-200280,TXN200280,2026-08-05,16:19:00,YABA,TILL-03,Emeka Obi,,SKU1015,Close Up Toothpaste 140ml,Personal Care,1,920.00,0,POS Card
+RCPT-200085,TXN200085,2026-08-10,10:26:00,Yaba Branch,TILL-03,Emeka Obi,+2348892952820,SKU1017,La Casera 50cl,Beverages,1,340,10,pos
+RCPT-200147,TXN200147,2026-08-11,09:01:00,MiniMart Express - Yaba,TILL-01,Emeka Obi,,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,3,280.00,10,Bank Transfer
+RCPT-200396,TXN200396,14-08-2026,20:53:00,MiniMart Express - Yaba,TILL-03,Emeka Obi,,SKU1008,Milo 400g,Beverages,1,2110,10,Bank Transfer
+RCPT-200329,TXN200329,06-08-2026,17:27:00,Surulere Branch,TILL-01,Blessing Nwosu,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,3,6750,5,POS Card
+RCPT-200049,TXN200049,09-08-2026,13:00:00,MiniMart Express - Yaba,TILL-01,Emeka Obi,+2347791689853,SKU1014,Dettol Soap 65g,Personal Care,1,₦390.00,0,ussd
+RCPT-200388,TXN200388,2026-08-02,13:38:00,MiniMart Express - Surulere,TILL-01,Fatima Bello,07545856920,SKU1013,Omo Detergent 900g,Household,1,1510,10,CASH
+RCPT-200172,TXN200172,2026-08-06,14:32:00,MiniMart Express - Ikeja,TILL-02,Tunde Bakare,,SKU1003,Golden Morn 500g,Grains & Staples,1,1320,10,Bank Transfer
+RCPT-200187,TXN200187,08-08-2026,19:33:00,YABA,TILL-02,Amaka Eze,,SKU1017,La Casera 50cl,Beverages,2,360.00,0,Bank Transfer
+RCPT-200029,TXN200029,2026-08-11,02:50 PM,SURULERE,TILL-01,Tunde Bakare,,SKU1028,Semovita 2kg,Grains & Staples,1,2330,15,Cash
+RCPT-200262,TXN200262,2026-08-14,18:31:00,Surulere Branch,TILL-01,Amaka Eze,8408778455,SKU1001,Indomie Noodles 70g,Grains & Staples,1,160,15,transfer
+RCPT-200023,TXN200023,10/08/2026,19:34:00,IKEJA,TILL-01,Segun Adeyemi,8707960905,SKU1027,Amstel Malta 33cl,Beverages,1,460,0,cash
+RCPT-200356,TXN200356,2026-08-14,08:18:00,Surulere Branch,TILL-01,Amaka Eze,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,1,2490,0,Cash
+RCPT-200334,TXN200334,2026-08-06,11:15:00,IKEJA,TILL-01,Chidinma Okafor,,SKU1009,Cowbell Milk Powder 360g,Dairy,3,2020,15,Bank Transfer
+RCPT-200055,TXN200055,11/08/2026,13:32:00,MiniMart Express - Yaba,TILL-02,Ibrahim Musa,,SKU1029,Dano Milk Powder 400g,Dairy,3,3190,10,transfer
+RCPT-200273,TXN200273,2026-08-09,18:09:00,IKEJA,TILL-01,Blessing Nwosu,08312578923,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,4,5090,10,Card
+RCPT-200348,TXN200348,2026-08-06,20:18:00,MiniMart Express - Yaba,TILL-03,Fatima Bello,+2347485075411,SKU1028,Semovita 2kg,Grains & Staples,2,2290,5,ATM Card
+RCPT-200070,TXN200070,2026-08-11,20:36:00,Yaba Branch,TILL-01,Emeka Obi,,SKU1025,Tom Tom Sweet (pack),Snacks,1,330,0,transfer
+RCPT-200122,TXN200122,2026-08-11,18:52:00,Yaba Branch,TILL-01,,7323535062,SKU1028,Semovita 2kg,Grains & Staples,1,,0,POS Card
+RCPT-200214,TXN200214,2026-08-11,18:25:00,Ikeja Branch,TILL-01,Fatima Bello,,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,1,4680,15,CASH
+RCPT-200370,TXN200370,2026-08-09,15:51:00,Surulere Branch,TILL-01,Fatima Bello,+2347612576884,SKU1027,Amstel Malta 33cl,Beverages,1,400.00,0,Bank Transfer
+RCPT-200037,TXN200037,2026-08-10,13:37:00,MiniMart Express - Yaba,TILL-01,Segun Adeyemi,08873865851,SKU1014,Dettol Soap 65g,Personal Care,2,₦350.00,5,Cash
+RCPT-200112,TXN200112,2026-08-05,14:31:00,MiniMart Express - Ikeja,TILL-02,Ibrahim Musa,08472122088,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,300,10,Bank Transfer
+RCPT-200193,TXN200193,2026-08-02,19:49:00,MiniMart Express - Yaba,TILL-03,Chidinma Okafor,+2347128517218,SKU1010,Mama Gold Rice 5kg,Grains & Staples,-3,6220,10,USSD
+RCPT-200079,TXN200079,2026-08-02,15:32:00,IKEJA,TILL-01,Segun Adeyemi,,SKU1029,Dano Milk Powder 400g,Dairy,2,2630,5,transfer
+RCPT-200324,TXN200324,2026-08-05,18:12:00,YABA,TILL-03,Segun Adeyemi,,SKU1018,Maltina 33cl,Beverages,1,440,0,POS Card
+RCPT-200157,TXN200157,2026-08-14,21:21:00,SURULERE,TILL-01,Blessing Nwosu,+2347028372691,SKU1016,Eva Water 75cl,Beverages,4,,10,POS Card
+RCPT-200263,TXN200263,07/08/2026,11:24:00,Surulere Branch,TILL-01,Segun Adeyemi,,SKU1005,Coca-Cola 50cl,Beverages,1,390,0,ussd
+RCPT-200305,TXN200305,12-08-2026,19:31:00,SURULERE,TILL-01,Tunde Bakare,,SKU1016,Eva Water 75cl,Beverages,4,,0,USSD
+RCPT-200296,TXN200296,2026-08-07,08:24:00,Ikeja Branch,TILL-01,Emeka Obi,+2347215808819,SKU1018,Maltina 33cl,Beverages,1,,15,USSD
+RCPT-200003,TXN200003,05/08/2026,15:52:00,MiniMart Express - Ikeja,TILL-01,Emeka Obi,+2347908988360,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,1,4480,5,Cash
+RCPT-200255,TXN200255,2026-08-05,15:01:00,SURULERE,TILL-01,Blessing Nwosu,07333406815,SKU1018,Maltina 33cl,Beverages,1,510.00,5,POS Card
+RCPT-200153,TXN200153,2026-08-08,19:12:00,IKEJA,TILL-01,Amaka Eze,08027645409,SKU1016,Eva Water 75cl,Beverages,5,₦210.00,5,CASH
+RCPT-200009,TXN200009,2026-08-03,15:02:00,MiniMart Express - Ikeja,TILL-01,Amaka Eze,+2348657362677,SKU1020,Cerelac Infant Cereal 400g,Baby Products,2,3060,15,POS Card
+RCPT-200099,TXN200099,2026-08-14,17:51:00,MiniMart Express - Ikeja,TILL-02,Blessing Nwosu,,SKU1026,Chivita Juice 1L,Beverages,2,1420,15,pos
+RCPT-200209,TXN200209,2026-08-08,15:57:00,YABA,TILL-03,Chidinma Okafor,,SKU1015,Close Up Toothpaste 140ml,Personal Care,1,940,5,Cash
+RCPT-200258,TXN200258,2026-08-09,08:26:00,MiniMart Express - Ikeja,TILL-02,Segun Adeyemi,+2348799230036,SKU1018,Maltina 33cl,Beverages,3,510,10,pos
+RCPT-200245,TXN200245,2026-08-04,07:52:00,Yaba Branch,TILL-02,Segun Adeyemi,,SKU1029,Dano Milk Powder 400g,Dairy,2,3090,0,Cash
+RCPT-200142,TXN200142,2026-08-04,18:10:00,Ikeja Branch,TILL-01,Fatima Bello,7143479839,SKU1021,Bournvita 500g,Beverages,1,2750,10,ussd
+RCPT-200163,TXN200163,09/08/2026,18:29:00,YABA,TILL-02,Ibrahim Musa,,SKU1028,Semovita 2kg,Grains & Staples,3,2170,5,Bank Transfer
+RCPT-200001,TXN200001,2026-08-10,10:15:00,Yaba Branch,TILL-02,Ibrahim Musa,,SKU1017,La Casera 50cl,Beverages,2,350,0,Cash
+RCPT-200030,TXN200030,2026-08-07,11:47:00,MiniMart Express - Yaba,TILL-02,Ibrahim Musa,7431384187,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,2,,0,Cash
+RCPT-200213,TXN200213,06-08-2026,14:47:00,MiniMart Express - Yaba,TILL-03,Emeka Obi,,SKU1017,La Casera 50cl,Beverages,2,,5,Cash
+RCPT-200396,TXN200396,2026-08-14,20:53:00,Yaba Branch,TILL-03,Emeka Obi,,SKU1023,Ariel Detergent 900g,Household,3,1730,0,Bank Transfer
+RCPT-200345,TXN200345,2026-08-04,18:52:00,MiniMart Express - Surulere,TILL-01,Blessing Nwosu,+2348053263413,SKU1021,Bournvita 500g,Beverages,1,"₦2,180.00",10,CASH
+RCPT-200293,TXN200293,14-08-2026,10:28:00,IKEJA,TILL-02,Blessing Nwosu,7711973570,SKU1029,Dano Milk Powder 400g,Dairy,3,3310,15,Bank Transfer
+RCPT-200047,TXN200047,2026-08-02,09:29:00,Yaba Branch,TILL-03,Fatima Bello,,SKU1021,Bournvita 500g,Beverages,1,2280,0,Transfer
+RCPT-200281,TXN200281,2026-08-11,16:43:00,MiniMart Express - Yaba,TILL-02,Fatima Bello,07563710777,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,2,280,0,USSD
+RCPT-200331,TXN200331,2026-08-08,09:24:00,MiniMart Express - Ikeja,TILL-02,Fatima Bello,7453436328,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,300,15,Bank Transfer
+RCPT-200199,TXN200199,07/08/2026,07:34:00,MiniMart Express - Ikeja,TILL-01,Emeka Obi,+2347935348054,SKU1017,La Casera 50cl,Beverages,1,360,10,USSD
+RCPT-200167,TXN200167,06-08-2026,15:18:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,"₦1,300.00",10,POS Card
+RCPT-200096,TXN200096,2026-08-11,20:54:00,IKEJA,TILL-02,Blessing Nwosu,,SKU1023,Ariel Detergent 900g,Household,1,"1,700.00",0,Cash
+RCPT-200392,TXN200392,2026-08-04,12:09:00,IKEJA,TILL-02,Tunde Bakare,08789276861,SKU1015,Close Up Toothpaste 140ml,,2,860,0,CASH
+RCPT-200138,TXN200138,2026-08-13,21:24:00,MiniMart Express - Yaba,TILL-02,Fatima Bello,09005590107,SKU1004,Dangote Sugar 1kg,Grains & Staples,4,"₦1,370.00",0,Cash
+RCPT-200047,TXN200047,2026-08-02,09:29:00,MiniMart Express - Yaba,TILL-03,Fatima Bello,,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,310,0,Transfer
+RCPT-200304,TXN200304,12/08/2026,18:09:00,MiniMart Express - Surulere,TILL-01,Emeka Obi,,SKU1015,Close Up Toothpaste 140ml,Personal Care,2,890.00,0,Bank Transfer
+RCPT-200286,TXN200286,2026-08-06,18:40:00,YABA,TILL-01,Segun Adeyemi,,SKU1014,Dettol Soap 65g,Personal Care,2,380,0,transfer
+RCPT-200244,TXN200244,07/08/2026,19:29:00,Surulere Branch,TILL-01,Blessing Nwosu,+2348863997537,SKU1006,Bigi Cola 50cl,Beverages,2,380,5,POS Card
+RCPT-200026,TXN200026,08-08-2026,17:31:00,MiniMart Express - Yaba,TILL-02,Amaka Eze,07769988427,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,5,170,0,Card
+RCPT-200172,TXN200172,06/08/2026,14:32:00,Ikeja Branch,TILL-02,Tunde Bakare,,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,2,₦280.00,15,Bank Transfer
+RCPT-200377,TXN200377,2026-08-05,08:09:00,MiniMart Express - Ikeja,TILL-02,Segun Adeyemi,,SKU1027,Amstel Malta 33cl,Beverages,1,420,0,POS Card
+RCPT-200273,TXN200273,2026-08-09,18:09:00,Ikeja Branch,TILL-01,Blessing Nwosu,08312578923,SKU1020,Cerelac Infant Cereal 400g,Baby Products,2,3330,10,Card
+RCPT-200133,TXN200133,2026-08-02,17:34:00,SURULERE,TILL-01,Segun Adeyemi,,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,1260,10,Cash
+RCPT-200019,TXN200019,2026-08-10,12:11:00,Surulere Branch,TILL-01,Amaka Eze,09049957363,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,1,2960,15,Cash
+RCPT-200006,TXN200006,2026-08-14,19:42:00,MiniMart Express - Surulere,TILL-01,Fatima Bello,,SKU1001,Indomie Noodles 70g,Grains & Staples,1,140,0,Cash
+RCPT-200354,TXN200354,2026-08-04,19:02:00,YABA,TILL-02,Ibrahim Musa,8706881586,SKU1011,Honeywell Semolina 2kg,Grains & Staples,1,2340,0,POS Card
+RCPT-200326,TXN200326,06-08-2026,14:48:00,MiniMart Express - Surulere,TILL-01,Fatima Bello,07276596608,SKU1021,Bournvita 500g,Beverages,1,2260,5,ussd
+RCPT-200150,TXN200150,2026-08-05,07:31:00,Surulere Branch,TILL-01,Amaka Eze,,SKU1006,Bigi Cola 50cl,Beverages,2,360,5,cash
+RCPT-200107,TXN200107,2026-08-11,11:07:00,YABA,TILL-03,Chidinma Okafor,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,2,3570,0,CASH
+RCPT-200154,TXN200154,2026-08-10,09:42:00,Yaba Branch,TILL-01,Blessing Nwosu,,SKU1019,Titus Sardine 125g,Canned Foods,-3,,0,Cash
+RCPT-200149,TXN200149,2026-08-14,10:08:00,MiniMart Express - Ikeja,TILL-01,Fatima Bello,08151589166,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,,10,transfer
+RCPT-200185,TXN200185,2026-08-04,11:23:00,MiniMart Express - Surulere,TILL-01,Fatima Bello,07731119994,SKU1028,Semovita 2kg,Grains & Staples,1,"2,280.00",0,Bank Transfer
+RCPT-200012,TXN200012,2026-08-11,15:51:00,SURULERE,TILL-01,Amaka Eze,,SKU1017,La Casera 50cl,Beverages,1,320,0,Transfer
+RCPT-200296,TXN200296,2026-08-07,08:24:00,Ikeja Branch,TILL-01,Emeka Obi,+2347215808819,SKU1028,Semovita 2kg,Grains & Staples,3,"₦2,120.00",0,USSD
+RCPT-200096,TXN200096,11/08/2026,20:54:00,MiniMart Express - Ikeja,TILL-02,Blessing Nwosu,,SKU1018,Maltina 33cl,Beverages,3,₦460.00,0,Cash
+RCPT-200121,TXN200121,2026-08-12,20:28:00,MiniMart Express - Yaba,TILL-01,Emeka Obi,,SKU1026,Chivita Juice 1L,Beverages,1,1390,0,Card
+RCPT-200189,TXN200189,2026-08-06,14:50:00,MiniMart Express - Ikeja,TILL-01,Fatima Bello,,SKU1019,Titus Sardine 125g,,3,730,5,Bank Transfer
+RCPT-200043,TXN200043,06/08/2026,15:33:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,,SKU1013,Omo Detergent 900g,Household,1,1770,0,Card
+RCPT-200006,TXN200006,2026-08-14,19:42:00,MiniMart Express - Surulere,TILL-01,Fatima Bello,,SKU1017,La Casera 50cl,Beverages,2,390,0,Cash
+RCPT-200280,TXN200280,2026-08-05,16:19:00,MiniMart Express - Yaba,TILL-03,Emeka Obi,,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,1170,0,POS Card
+RCPT-200379,TXN200379,2026-08-13,08:01:00,MiniMart Express - Yaba,TILL-02,Fatima Bello,,SKU1005,Coca-Cola 50cl,Beverages,1,450,5,Bank Transfer
+RCPT-200195,TXN200195,2026-08-03,08:58:00,IKEJA,TILL-02,Chidinma Okafor,07907702778,SKU1017,La Casera 50cl,Beverages,1,350,5,USSD
+RCPT-200137,TXN200137,2026-08-11,12:40:00,Ikeja Branch,TILL-02,Chidinma Okafor,,SKU1004,Dangote Sugar 1kg,Grains & Staples,2,1270,0,ATM Card
+RCPT-200018,TXN200018,2026-08-06,15:28:00,MiniMart Express - Ikeja,TILL-02,Fatima Bello,7649045027,SKU1005,Coca-Cola 50cl,Beverages,1,450,15,Card
+RCPT-200080,TXN200080,2026-08-14,13:43:00,Yaba Branch,TILL-02,Tunde Bakare,7553128059,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,5,2980,0,transfer
+RCPT-200039,TXN200039,2026-08-13,10:35:00,SURULERE,TILL-01,Chidinma Okafor,,SKU1029,Dano Milk Powder 400g,Dairy,1,3330,0,transfer
+RCPT-200219,TXN200219,2026-08-04,07:07:00,IKEJA,TILL-01,Blessing Nwosu,8648986071,SKU1006,Bigi Cola 50cl,Beverages,1,380,0,USSD
+RCPT-200123,TXN200123,2026-08-06,15:12:00,Surulere Branch,TILL-01,Ibrahim Musa,,SKU1014,Dettol Soap 65g,Personal Care,4,370.00,0,POS Card
+RCPT-200365,TXN200365,2026-08-03,18:04:00,IKEJA,TILL-01,Blessing Nwosu,09049462379,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,1,4910,5,Bank Transfer
+RCPT-200169,TXN200169,2026-08-01,08:58:00,Ikeja Branch,TILL-01,Tunde Bakare,7582424618,SKU1029,Dano Milk Powder 400g,Dairy,1,3240,0,POS Card
+RCPT-200091,TXN200091,2026-08-08,18:19:00,Yaba Branch,TILL-02,Segun Adeyemi,08055379068,SKU1021,Bournvita 500g,Beverages,1,2650,15,POS Card
+RCPT-200337,TXN200337,2026-08-02,15:40:00,SURULERE,TILL-01,Emeka Obi,,SKU1026,Chivita Juice 1L,Beverages,1,"₦1,230.00",0,Cash
+RCPT-200258,TXN200258,2026-08-09,08:26:00,IKEJA,TILL-02,Segun Adeyemi,+2348799230036,SKU1015,Close Up Toothpaste 140ml,Personal Care,4,970,10,pos
+RCPT-200364,TXN200364,03-08-2026,17:53:00,MiniMart Express - Ikeja,TILL-01,Emeka Obi,+2347928553230,SKU1001,Indomie Noodles 70g,Grains & Staples,2,,0,Bank Transfer
+RCPT-200011,TXN200011,2026-08-11,11:53:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,8111072459,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,3,160,15,USSD
+RCPT-200084,TXN200084,2026-08-11,12:27:00,Surulere Branch,TILL-01,Blessing Nwosu,7031103026,SKU1007,Gala Sausage Roll,Snacks,2,290,5,POS Card
+RCPT-200063,TXN200063,2026-08-09,20:18:00,MiniMart Express - Yaba,TILL-01,Amaka Eze,,SKU1028,Semovita 2kg,Grains & Staples,5,2370,10,ussd
+RCPT-200028,TXN200028,2026-08-12,20:23:00,Ikeja Branch,TILL-01,Fatima Bello,+2348801059271,SKU1011,Honeywell Semolina 2kg,Grains & Staples,2,2580,0,POS Card
+RCPT-200134,TXN200134,2026-08-14,17:13:00,Ikeja Branch,TILL-02,Chidinma Okafor,07806830332,SKU1009,Cowbell Milk Powder 360g,Dairy,2,1830,5,Cash
+RCPT-200088,TXN200088,04-08-2026,08:55:00,SURULERE,TILL-01,Segun Adeyemi,,SKU1023,Ariel Detergent 900g,Household,2,"1,650.00",5,CASH
+RCPT-200040,TXN200040,2026-08-10,16:46:00,SURULERE,TILL-01,Emeka Obi,,SKU1016,Eva Water 75cl,Beverages,1,190,0,Cash
+RCPT-200270,TXN200270,2026-08-09,19:57:00,MiniMart Express - Yaba,TILL-03,Ibrahim Musa,,SKU1017,La Casera 50cl,Beverages,1,320,10,Transfer
+RCPT-200315,TXN200315,09/08/2026,15:52:00,MiniMart Express - Yaba,TILL-01,Segun Adeyemi,,SKU1029,Dano Milk Powder 400g,Dairy,2,3020,15,Cash
+RCPT-200111,TXN200111,2026-08-01,06:09 PM,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,1,4440,0,Cash
+RCPT-200353,TXN200353,2026-08-07,09:02:00,SURULERE,TILL-01,Ibrahim Musa,8634278473,SKU1016,Eva Water 75cl,Beverages,3,₦200.00,0,ATM Card
+RCPT-200296,TXN200296,2026-08-07,08:24:00,IKEJA,TILL-01,Emeka Obi,+2347215808819,SKU1015,Close Up Toothpaste 140ml,Personal Care,4,"₦1,030.00",0,USSD
+RCPT-200300,TXN200300,2026-08-11,07:00 PM,Ikeja Branch,TILL-02,Chidinma Okafor,,SKU1009,Cowbell Milk Powder 360g,Dairy,3,"1,660.00",10,cash
+RCPT-200307,TXN200307,2026-08-08,13:29:00,Ikeja Branch,TILL-02,Chidinma Okafor,7251801465,SKU1001,Indomie Noodles 70g,Grains & Staples,2,160,0,ATM Card
+RCPT-200040,TXN200040,2026-08-10,16:46:00,SURULERE,TILL-01,Emeka Obi,,SKU1005,Coca-Cola 50cl,Beverages,3,₦450.00,0,Cash
+RCPT-200045,TXN200045,2026-08-08,20:26:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,,SKU1013,Omo Detergent 900g,Household,3,1820,5,POS Card
+RCPT-200149,TXN200149,2026-08-14,10:08:00,MiniMart Express - Ikeja,TILL-01,Fatima Bello,08151589166,SKU1008,Milo 400g,Beverages,3,2030,0,transfer
+RCPT-200009,TXN200009,2026-08-03,15:02:00,MiniMart Express - Ikeja,TILL-01,Amaka Eze,+2348657362677,SKU1025,Tom Tom Sweet (pack),Snacks,3,340.00,15,POS Card
+RCPT-200097,TXN200097,2026-08-04,18:49:00,MiniMart Express - Yaba,TILL-03,Emeka Obi,,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,3,2520,0,Transfer
+RCPT-200114,TXN200114,2026-08-02,19:36:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,+2347276696714,SKU1009,Cowbell Milk Powder 360g,Dairy,1,1810,5,Cash
+RCPT-200105,TXN200105,2026-08-12,09:52:00,Yaba Branch,TILL-02,Chidinma Okafor,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,4,2580,0,POS Card
+RCPT-200165,TXN200165,2026-08-06,12:58:00,IKEJA,TILL-02,Blessing Nwosu,,SKU1008,Milo 400g,Beverages,3,2130,0,POS Card
+RCPT-200266,TXN200266,2026-08-11,13:13:00,YABA,TILL-01,Emeka Obi,,SKU1019,Titus Sardine 125g,Canned Foods,2,760,0,Cash
+RCPT-200116,TXN200116,09-08-2026,12:14:00,Yaba Branch,TILL-02,Amaka Eze,+2347796081133,SKU1021,Bournvita 500g,Beverages,2,2630,0,Cash
+RCPT-200259,TXN200259,05/08/2026,17:33:00,Surulere Branch,TILL-01,Tunde Bakare,+2348659772811,SKU1013,Omo Detergent 900g,Household,1,1480,0,Cash
+RCPT-200218,TXN200218,2026-08-13,15:47:00,YABA,TILL-01,Ibrahim Musa,,SKU1007,Gala Sausage Roll,Snacks,2,290,0,cash
+RCPT-200154,TXN200154,2026-08-10,09:42:00,MiniMart Express - Yaba,TILL-01,Blessing Nwosu,,SKU1027,Amstel Malta 33cl,Beverages,1,410,0,Cash
+RCPT-200391,TXN200391,2026-08-08,08:01:00,Ikeja Branch,TILL-02,Fatima Bello,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,190,0,Transfer
+RCPT-200121,TXN200121,2026-08-12,20:28:00,YABA,TILL-01,Emeka Obi,,SKU1027,Amstel Malta 33cl,Beverages,1,370,0,Card
+RCPT-200072,TXN200072,2026-08-12,07:45:00,MiniMart Express - Surulere,TILL-01,Ibrahim Musa,7184742893,SKU1019,Titus Sardine 125g,Canned Foods,1,760.00,0,POS Card
+RCPT-200012,TXN200012,11-08-2026,03:51 PM,SURULERE,TILL-01,Amaka Eze,,SKU1008,Milo 400g,Beverages,1,,0,Transfer
+RCPT-200307,TXN200307,2026-08-08,13:29:00,Ikeja Branch,TILL-02,Chidinma Okafor,7251801465,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,300,0,ATM Card
+RCPT-200352,TXN200352,2026-08-08,09:42:00,Yaba Branch,TILL-02,Fatima Bello,7965557601,SKU1028,Semovita 2kg,Grains & Staples,3,"₦2,250.00",0,POS
+RCPT-200167,TXN200167,06-08-2026,15:18:00,Surulere Branch,TILL-01,Segun Adeyemi,,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,290,10,POS Card
+RCPT-200031,TXN200031,2026-08-11,16:12:00,Ikeja Branch,TILL-01,Chidinma Okafor,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,3,3620,0,POS Card
+RCPT-200151,TXN200151,2026-08-07,15:36:00,Ikeja Branch,TILL-01,Blessing Nwosu,8424521726,SKU1029,Dano Milk Powder 400g,Dairy,1,,0,Card
+RCPT-200083,TXN200083,2026-08-11,10:04:00,Yaba Branch,TILL-03,Segun Adeyemi,7985676253,SKU1014,Dettol Soap 65g,Personal Care,1,360,0,POS Card
+RCPT-200264,TXN200264,03/08/2026,18:17:00,MiniMart Express - Yaba,TILL-02,Blessing Nwosu,,SKU1017,La Casera 50cl,Beverages,2,350,0,pos
+RCPT-200240,TXN200240,2026-08-13,16:50:00,Yaba Branch,TILL-01,Fatima Bello,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,6150,0,Bank Transfer
+RCPT-200009,TXN200009,2026-08-03,15:02:00,MiniMart Express - Ikeja,TILL-01,Amaka Eze,+2348657362677,SKU1008,Milo 400g,Beverages,5,2360,0,POS Card
+RCPT-200034,TXN200034,13/08/2026,14:15:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,+2348552823921,SKU1003,Golden Morn 500g,Grains & Staples,4,1460,15,Cash
+RCPT-200369,TXN200369,2026-08-11,13:50:00,IKEJA,TILL-02,Chidinma Okafor,08518580674,SKU1025,Tom Tom Sweet (pack),Snacks,4,330,0,POS Card
+RCPT-200292,TXN200292,2026-08-06,17:02:00,SURULERE,TILL-01,Fatima Bello,08465220273,SKU1011,Honeywell Semolina 2kg,Grains & Staples,1,2630,0,Cash
+RCPT-200057,TXN200057,2026-08-02,08:42:00,Surulere Branch,TILL-01,Amaka Eze,7826344763,SKU1030,Nasco Cornflakes 500g,Grains & Staples,2,1850,10,ussd
+RCPT-200330,TXN200330,2026-08-01,09:39:00,Yaba Branch,TILL-02,Fatima Bello,,SKU1014,Dettol Soap 65g,Personal Care,1,340,0,POS Card
+RCPT-200261,TXN200261,2026-08-06,14:54:00,Surulere Branch,TILL-01,Tunde Bakare,,SKU1015,Close Up Toothpaste 140ml,Personal Care,2,1010,0,Transfer
+RCPT-200366,TXN200366,2026-08-02,21:36:00,SURULERE,TILL-01,Segun Adeyemi,,SKU1003,Golden Morn 500g,Grains & Staples,3,1530,10,Card
+RCPT-200050,TXN200050,2026-08-11,15:17:00,IKEJA,TILL-01,Segun Adeyemi,07309651733,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,270,10,Bank Transfer
+RCPT-200210,TXN200210,2026-08-14,11:12:00,SURULERE,TILL-01,Segun Adeyemi,09016641043,SKU1013,Omo Detergent 900g,Household,1,1660,0,Cash
+RCPT-200387,TXN200387,13/08/2026,15:04:00,MiniMart Express - Yaba,TILL-02,Amaka Eze,,SKU1019,Titus Sardine 125g,Canned Foods,1,630.00,15,POS Card
+RCPT-200248,TXN200248,2026-08-09,12:16:00,IKEJA,TILL-01,Emeka Obi,07919126775,SKU1013,Omo Detergent 900g,Household,2,1450,5,cash
+RCPT-200242,TXN200242,2026-08-10,12:14:00,MiniMart Express - Ikeja,TILL-02,Fatima Bello,,SKU1015,Close Up Toothpaste 140ml,,3,1030,10,transfer
+RCPT-200289,TXN200289,2026-08-05,17:59:00,MiniMart Express - Ikeja,TILL-01,Fatima Bello,,SKU1029,Dano Milk Powder 400g,Dairy,1,"3,090.00",0,Cash
+RCPT-200333,TXN200333,08-08-2026,13:52:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,,SKU1006,Bigi Cola 50cl,Beverages,2,320,0,POS Card
+RCPT-200147,TXN200147,2026-08-11,09:01:00,YABA,TILL-01,Emeka Obi,,SKU1009,Cowbell Milk Powder 360g,Dairy,2,"₦1,650.00",10,Bank Transfer
+RCPT-200134,TXN200134,2026-08-14,17:13:00,IKEJA,TILL-02,Chidinma Okafor,07806830332,SKU1005,Coca-Cola 50cl,Beverages,3,460,0,Cash
+RCPT-200126,TXN200126,06-08-2026,20:47:00,MiniMart Express - Ikeja,TILL-01,Tunde Bakare,+2348916238009,SKU1020,Cerelac Infant Cereal 400g,Baby Products,1,2910,0,CASH
+RCPT-200316,TXN200316,2026-08-14,21:46:00,YABA,TILL-03,Tunde Bakare,+2348592140528,SKU1009,Cowbell Milk Powder 360g,Dairy,2,2040,10,Bank Transfer
+RCPT-200307,TXN200307,08-08-2026,13:29:00,IKEJA,TILL-02,Chidinma Okafor,7251801465,SKU1017,La Casera 50cl,Beverages,4,380,0,ATM Card
+RCPT-200001,TXN200001,2026-08-10,10:15:00,MiniMart Express - Yaba,TILL-02,Ibrahim Musa,,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,2,280,10,Cash
+RCPT-200276,TXN200276,04/08/2026,11:49 AM,IKEJA,TILL-02,Segun Adeyemi,+2348783781761,SKU1008,Milo 400g,Beverages,1,1980,0,POS
+RCPT-200188,TXN200188,2026-08-06,11:01:00,YABA,TILL-02,Ibrahim Musa,+2348107188852,SKU1003,Golden Morn 500g,Grains & Staples,3,1660,5,Cash
+RCPT-200371,TXN200371,01/08/2026,18:18:00,SURULERE,TILL-01,Emeka Obi,,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,2,4920,0,Transfer
+RCPT-200333,TXN200333,08/08/2026,13:52:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,,SKU1021,Bournvita 500g,Beverages,1,2170,0,POS Card
+RCPT-200183,TXN200183,2026-08-01,14:57:00,MiniMart Express - Ikeja,TILL-02,Fatima Bello,,SKU1018,Maltina 33cl,Beverages,1,420,15,Bank Transfer
+RCPT-200204,TXN200204,2026-08-13,12:56:00,MiniMart Express - Yaba,TILL-03,,09098357138,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,1,2700,15,transfer
+RCPT-200320,TXN200320,2026-08-14,10:37:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1021,Bournvita 500g,Beverages,3,2340,0,ussd
+RCPT-200001,TXN200001,2026-08-10,10:15:00,YABA,TILL-02,Ibrahim Musa,,SKU1023,Ariel Detergent 900g,Household,1,1810,0,Cash
+RCPT-200046,TXN200046,2026-08-05,09:03:00,IKEJA,TILL-02,Amaka Eze,,SKU1015,Close Up Toothpaste 140ml,Personal Care,2,820,0,POS Card
+RCPT-200269,TXN200269,2026-08-10,08:01:00,Yaba Branch,TILL-02,Amaka Eze,+2347519185869,SKU1015,Close Up Toothpaste 140ml,Personal Care,1,960,5,POS Card
+RCPT-200252,TXN200252,12/08/2026,10:09:00,IKEJA,TILL-02,Ibrahim Musa,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,2,2190,0,Card
+RCPT-200384,TXN200384,2026-08-07,19:30:00,YABA,TILL-01,Fatima Bello,,SKU1027,Amstel Malta 33cl,Beverages,3,400,0,Bank Transfer
+RCPT-200352,TXN200352,08-08-2026,09:42:00,MiniMart Express - Yaba,TILL-02,Fatima Bello,7965557601,SKU1003,Golden Morn 500g,Grains & Staples,2,1660,0,POS
+RCPT-200144,TXN200144,2026-08-07,11:13:00,Yaba Branch,TILL-01,Blessing Nwosu,,SKU1017,La Casera 50cl,Beverages,1,370,5,ussd
+RCPT-200106,TXN200106,2026-08-06,19:44:00,Surulere Branch,TILL-01,Amaka Eze,,SKU1019,Titus Sardine 125g,Canned Foods,1,730.00,0,Bank Transfer
+RCPT-200208,TXN200208,04-08-2026,10:49:00,SURULERE,TILL-01,Emeka Obi,,SKU1023,Ariel Detergent 900g,Household,2,1720,0,Cash
+RCPT-200091,TXN200091,08-08-2026,18:19:00,Yaba Branch,TILL-02,Segun Adeyemi,08055379068,SKU1018,Maltina 33cl,Beverages,1,470,0,POS Card
+RCPT-200145,TXN200145,2026-08-03,17:11:00,YABA,TILL-03,Tunde Bakare,,SKU1025,Tom Tom Sweet (pack),Snacks,2,290,0,Card
+RCPT-200299,TXN200299,2026-08-06,13:27:00,YABA,TILL-02,Blessing Nwosu,8509839097,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,320,0,Bank Transfer
+RCPT-200074,TXN200074,2026-08-14,10:32:00,MiniMart Express - Yaba,TILL-01,Segun Adeyemi,8727082878,SKU1026,Chivita Juice 1L,Beverages,5,1450,5,transfer
+RCPT-200209,TXN200209,2026-08-08,15:57:00,MiniMart Express - Yaba,TILL-03,Chidinma Okafor,,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,1,4680,0,Cash
+RCPT-200100,TXN200100,2026-08-10,15:21:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,,SKU1026,Chivita Juice 1L,Beverages,4,1340,0,Bank Transfer
+RCPT-200392,TXN200392,2026-08-04,12:09:00,IKEJA,TILL-02,Tunde Bakare,08789276861,SKU1009,Cowbell Milk Powder 360g,Dairy,2,1760,15,CASH
+RCPT-200203,TXN200203,09/08/2026,11:53:00,Surulere Branch,TILL-01,Segun Adeyemi,7154249865,SKU1020,Cerelac Infant Cereal 400g,Baby Products,2,3460,5,Bank Transfer
+RCPT-200115,TXN200115,2026-08-10,17:12:00,Yaba Branch,TILL-01,Blessing Nwosu,+2347004529514,SKU1021,Bournvita 500g,Beverages,3,"2,730.00",0,cash
+RCPT-200331,TXN200331,2026-08-08,09:24:00,MiniMart Express - Ikeja,TILL-02,Fatima Bello,7453436328,SKU1011,Honeywell Semolina 2kg,Grains & Staples,1,"₦2,590.00",10,Bank Transfer
+RCPT-200108,TXN200108,2026-08-12,10:22:00,Ikeja Branch,TILL-02,Fatima Bello,07312480022,SKU1002,Peak Milk Evaporated 170g,,4,660,10,ussd
+RCPT-200297,TXN200297,2026-08-05,07:25:00,YABA,TILL-02,Emeka Obi,+2347352244597,SKU1015,Close Up Toothpaste 140ml,Personal Care,3,1000,0,transfer
+RCPT-200080,TXN200080,2026-08-14,13:43:00,MiniMart Express - Yaba,TILL-02,Tunde Bakare,7553128059,SKU1002,Peak Milk Evaporated 170g,Dairy,4,610,15,transfer
+RCPT-200220,TXN200220,2026-08-12,19:13:00,IKEJA,TILL-01,Tunde Bakare,8997090694,SKU1014,Dettol Soap 65g,Personal Care,2,350,15,ATM Card
+RCPT-200204,TXN200204,2026-08-13,12:56:00,YABA,TILL-03,Chidinma Okafor,09098357138,SKU1025,Tom Tom Sweet (pack),Snacks,1,280,15,transfer
+RCPT-200096,TXN200096,2026-08-11,20:54:00,IKEJA,TILL-02,Blessing Nwosu,,SKU1026,Chivita Juice 1L,Beverages,3,"1,280.00",15,Cash
+RCPT-200166,TXN200166,2026-08-08,13:22:00,MiniMart Express - Ikeja,TILL-02,Blessing Nwosu,,SKU1013,Omo Detergent 900g,Household,2,1830,10,ATM Card
+RCPT-200328,TXN200328,2026-08-01,10:19 AM,Ikeja Branch,TILL-01,Tunde Bakare,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,5,160,5,POS Card
+RCPT-200036,TXN200036,2026-08-06,12:44:00,MiniMart Express - Surulere,TILL-01,Ibrahim Musa,+2348643002325,SKU1019,Titus Sardine 125g,Canned Foods,1,660,5,Bank Transfer
+RCPT-200209,TXN200209,2026-08-08,15:57:00,YABA,TILL-03,Chidinma Okafor,,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,1,2680,0,Cash
+RCPT-200221,TXN200221,2026-08-03,14:33:00,IKEJA,TILL-01,Tunde Bakare,+2348104116690,SKU1025,Tom Tom Sweet (pack),Snacks,4,320,5,Transfer
+RCPT-200400,TXN200400,2026-08-03,11:02:00,SURULERE,TILL-01,,,SKU1008,Milo 400g,Beverages,2,"₦1,920.00",0,pos
+RCPT-200118,TXN200118,2026-08-09,16:28:00,Surulere Branch,TILL-01,Blessing Nwosu,,SKU1011,Honeywell Semolina 2kg,,1,2570,0,POS Card
+RCPT-200010,TXN200010,2026-08-05,20:08:00,MiniMart Express - Ikeja,TILL-02,Chidinma Okafor,07735961558,SKU1003,Golden Morn 500g,Grains & Staples,1,1430,15,Cash
+RCPT-200339,TXN200339,03-08-2026,12:06:00,IKEJA,TILL-02,Ibrahim Musa,,SKU1016,Eva Water 75cl,Beverages,3,210,0,CASH
+RCPT-200352,TXN200352,2026-08-08,09:42:00,Yaba Branch,TILL-02,Fatima Bello,7965557601,SKU1006,Bigi Cola 50cl,Beverages,2,400,5,POS
+RCPT-200305,TXN200305,2026-08-12,19:31:00,SURULERE,TILL-01,Tunde Bakare,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,2,2240,0,USSD
+RCPT-200294,TXN200294,2026-08-11,13:52:00,MiniMart Express - Yaba,TILL-03,Fatima Bello,+2347713027091,SKU1007,Gala Sausage Roll,Snacks,3,250,5,Cash
+RCPT-200013,TXN200013,03/08/2026,12:09:00,Surulere Branch,TILL-01,Tunde Bakare,+2348355368419,SKU1005,Coca-Cola 50cl,Beverages,2,390,0,POS Card
+RCPT-200146,TXN200146,2026-08-04,09:55:00,MiniMart Express - Yaba,TILL-03,Fatima Bello,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,1,3300,0,cash
+RCPT-200127,TXN200127,2026-08-09,08:23:00,MiniMart Express - Surulere,TILL-01,Chidinma Okafor,,SKU1006,Bigi Cola 50cl,Beverages,3,370,5,Cash
+RCPT-200034,TXN200034,2026-08-13,14:15:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,+2348552823921,SKU1020,Cerelac Infant Cereal 400g,Baby Products,2,3070,0,Cash
+RCPT-200042,TXN200042,2026-08-09,12:02:00,Ikeja Branch,TILL-01,Chidinma Okafor,,SKU1003,Golden Morn 500g,Grains & Staples,3,1560,15,USSD
+RCPT-200059,TXN200059,2026-08-14,10:40:00,MiniMart Express - Yaba,TILL-02,Amaka Eze,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,3,1930,0,POS Card
+RCPT-200276,TXN200276,2026-08-04,11:49:00,Ikeja Branch,TILL-02,Segun Adeyemi,+2348783781761,SKU1026,Chivita Juice 1L,Beverages,2,1440,10,POS
+RCPT-200044,TXN200044,2026-08-13,13:47:00,MiniMart Express - Yaba,TILL-01,Ibrahim Musa,+2347704922386,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,1,5080,0,POS Card
+RCPT-200238,TXN200238,2026-08-14,13:27:00,IKEJA,TILL-02,Amaka Eze,,SKU1007,Gala Sausage Roll,Snacks,2,₦260.00,0,POS Card
+RCPT-200087,TXN200087,2026-08-02,13:52:00,SURULERE,TILL-01,Emeka Obi,,SKU1006,Bigi Cola 50cl,Beverages,2,380,15,USSD
+RCPT-200207,TXN200207,2026-08-10,09:19:00,Yaba Branch,TILL-01,Chidinma Okafor,8836207284,SKU1023,Ariel Detergent 900g,Household,2,1710,0,Transfer
+RCPT-200308,TXN200308,2026-08-05,09:39:00,YABA,TILL-03,Tunde Bakare,07442931522,SKU1005,Coca-Cola 50cl,Beverages,4,420,5,pos
+RCPT-200158,TXN200158,2026-08-11,19:32:00,SURULERE,TILL-01,Tunde Bakare,,SKU1016,Eva Water 75cl,Beverages,1,180.00,10,cash
+RCPT-200366,TXN200366,2026-08-02,21:36:00,SURULERE,TILL-01,Segun Adeyemi,,SKU1018,Maltina 33cl,Beverages,2,490,0,Card
+RCPT-200293,TXN200293,2026-08-14,10:28:00,MiniMart Express - Ikeja,TILL-02,Blessing Nwosu,7711973570,SKU1010,Mama Gold Rice 5kg,Grains & Staples,1,6110,10,Bank Transfer
+RCPT-200038,TXN200038,2026-08-09,08:13:00,YABA,TILL-03,Fatima Bello,08137884593,SKU1008,Milo 400g,Beverages,2,2010,15,Cash
+RCPT-200286,TXN200286,2026-08-06,18:40:00,YABA,TILL-01,Segun Adeyemi,,SKU1003,Golden Morn 500g,Grains & Staples,2,"1,350.00",5,transfer
+RCPT-200268,TXN200268,2026-08-14,20:46:00,IKEJA,TILL-02,Amaka Eze,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,3,,0,Bank Transfer
+RCPT-200298,TXN200298,2026-08-01,13:32:00,Yaba Branch,TILL-01,Tunde Bakare,08021359348,SKU1019,Titus Sardine 125g,Canned Foods,1,700,0,ussd
+RCPT-200131,TXN200131,2026-08-13,14:34:00,SURULERE,TILL-01,Chidinma Okafor,,SKU1008,Milo 400g,Beverages,1,"2,160.00",0,pos
+RCPT-200130,TXN200130,12/08/2026,19:23:00,MiniMart Express - Yaba,TILL-02,Amaka Eze,7189278362,SKU1018,Maltina 33cl,Beverages,4,480,0,USSD
+RCPT-200253,TXN200253,2026-08-01,19:10:00,MiniMart Express - Ikeja,TILL-01,Tunde Bakare,7181647471,SKU1009,Cowbell Milk Powder 360g,Dairy,2,"2,010.00",0,Bank Transfer
+RCPT-200068,TXN200068,06-08-2026,20:12:00,SURULERE,TILL-01,Fatima Bello,,SKU1026,Chivita Juice 1L,Beverages,1,1450,10,POS Card
+RCPT-200049,TXN200049,2026-08-09,13:00:00,Yaba Branch,TILL-01,Emeka Obi,+2347791689853,SKU1002,Peak Milk Evaporated 170g,Dairy,1,650,0,ussd
+RCPT-200090,TXN200090,06-08-2026,13:09:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,+2348132884217,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,180,0,Card
+RCPT-200372,TXN200372,2026-08-10,18:36:00,Yaba Branch,TILL-03,Chidinma Okafor,,SKU1014,Dettol Soap 65g,Personal Care,1,400,0,transfer
+RCPT-200350,TXN200350,2026-08-09,21:39:00,MiniMart Express - Yaba,TILL-01,Ibrahim Musa,8898998954,SKU1008,Milo 400g,Beverages,1,2120,15,Bank Transfer
+RCPT-200230,TXN200230,10-08-2026,20:43:00,IKEJA,TILL-01,Amaka Eze,,SKU1002,Peak Milk Evaporated 170g,Dairy,5,590,15,POS Card
+RCPT-200379,TXN200379,2026-08-13,08:01:00,MiniMart Express - Yaba,TILL-02,Fatima Bello,,SKU1006,Bigi Cola 50cl,Beverages,4,380,0,Bank Transfer
+RCPT-200102,TXN200102,2026-08-05,16:22:00,Ikeja Branch,TILL-01,Emeka Obi,+2347789731598,SKU1028,Semovita 2kg,Grains & Staples,1,2140,0,Transfer
+RCPT-200102,TXN200102,2026-08-05,16:22:00,IKEJA,TILL-01,Emeka Obi,+2347789731598,SKU1001,Indomie Noodles 70g,Grains & Staples,1,₦160.00,5,Transfer
+RCPT-200231,TXN200231,2026-08-08,21:39:00,IKEJA,TILL-02,Segun Adeyemi,08995777468,SKU1021,Bournvita 500g,Beverages,3,2170,10,transfer
+RCPT-200317,TXN200317,09/08/2026,10:11:00,Surulere Branch,TILL-01,Ibrahim Musa,+2348457399586,SKU1030,Nasco Cornflakes 500g,Grains & Staples,4,"₦1,840.00",0,transfer
+RCPT-200071,TXN200071,2026-08-07,19:28:00,MiniMart Express - Ikeja,TILL-02,Ibrahim Musa,+2347172059862,SKU1020,Cerelac Infant Cereal 400g,Baby Products,4,3110,15,Cash
+RCPT-200263,TXN200263,2026-08-07,11:24:00,SURULERE,TILL-01,Segun Adeyemi,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,3,160,10,ussd
+RCPT-200286,TXN200286,2026-08-06,18:40:00,YABA,TILL-01,Segun Adeyemi,,SKU1028,Semovita 2kg,Grains & Staples,2,"₦2,280.00",0,transfer
+RCPT-200191,TXN200191,2026-08-07,07:26:00,Ikeja Branch,TILL-01,Chidinma Okafor,,SKU1021,Bournvita 500g,Beverages,2,2710,15,POS Card
+RCPT-200138,TXN200138,2026-08-13,21:24:00,Yaba Branch,TILL-02,Fatima Bello,09005590107,SKU1019,Titus Sardine 125g,Canned Foods,1,780,0,Cash
+RCPT-200303,TXN200303,2026-08-06,18:23:00,MiniMart Express - Surulere,TILL-01,Fatima Bello,+2347058912484,SKU1016,Eva Water 75cl,Beverages,1,220,10,ATM Card
+RCPT-200032,TXN200032,2026-08-12,10:21:00,MiniMart Express - Ikeja,TILL-02,Chidinma Okafor,+2349004443106,SKU1002,Peak Milk Evaporated 170g,Dairy,1,650,5,POS
+RCPT-200199,TXN200199,2026-08-07,07:34:00,MiniMart Express - Ikeja,TILL-01,Emeka Obi,+2347935348054,SKU1001,Indomie Noodles 70g,Grains & Staples,4,140.00,0,USSD
+RCPT-200034,TXN200034,2026-08-13,14:15:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,+2348552823921,SKU1008,Milo 400g,Beverages,2,2230,15,Cash
+RCPT-200269,TXN200269,2026-08-10,08:01:00,Yaba Branch,TILL-02,Amaka Eze,+2347519185869,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,1,4880,0,POS Card
+RCPT-200138,TXN200138,2026-08-13,21:24:00,MiniMart Express - Yaba,TILL-02,Fatima Bello,09005590107,SKU1014,Dettol Soap 65g,Personal Care,1,360,15,Cash
+RCPT-200273,TXN200273,2026-08-09,18:09:00,Ikeja Branch,TILL-01,,08312578923,SKU1002,Peak Milk Evaporated 170g,Dairy,-2,720,15,Card
+RCPT-200084,TXN200084,2026-08-11,12:27:00,Surulere Branch,TILL-01,Blessing Nwosu,7031103026,SKU1020,Cerelac Infant Cereal 400g,Baby Products,2,,0,POS Card
+RCPT-200349,TXN200349,2026-08-14,13:02:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,8209936488,SKU1013,Omo Detergent 900g,Household,1,,0,Cash
+RCPT-200089,TXN200089,2026-08-10,18:24:00,Surulere Branch,TILL-01,Amaka Eze,08836556316,SKU1007,Gala Sausage Roll,Snacks,2,₦250.00,0,POS
+RCPT-200016,TXN200016,2026-08-05,09:21:00,SURULERE,TILL-01,Emeka Obi,,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,2,2850,0,transfer
+RCPT-200124,TXN200124,2026-08-03,11:24:00,YABA,TILL-01,Ibrahim Musa,,SKU1025,Tom Tom Sweet (pack),Snacks,1,280.00,0,USSD
+RCPT-200040,TXN200040,10/08/2026,16:46:00,MiniMart Express - Surulere,TILL-01,Emeka Obi,,SKU1017,La Casera 50cl,Beverages,1,,10,Cash
+RCPT-200133,TXN200133,02/08/2026,17:34:00,Surulere Branch,TILL-01,Segun Adeyemi,,SKU1008,Milo 400g,Beverages,3,2100,0,Cash
+RCPT-200186,TXN200186,05-08-2026,09:31:00,YABA,TILL-01,Emeka Obi,,SKU1014,Dettol Soap 65g,Personal Care,4,380,0,Transfer
+RCPT-200011,TXN200011,2026-08-11,11:53:00,MiniMart Express - Ikeja,TILL-01,,8111072459,SKU1005,Coca-Cola 50cl,Beverages,1,390,0,USSD
+RCPT-200166,TXN200166,2026-08-08,13:22:00,MiniMart Express - Ikeja,TILL-02,Blessing Nwosu,,SKU1027,Amstel Malta 33cl,Beverages,1,450,5,ATM Card
+RCPT-200151,TXN200151,2026-08-07,15:36:00,Ikeja Branch,TILL-01,Blessing Nwosu,8424521726,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,1,2830,0,Card
+RCPT-200386,TXN200386,13/08/2026,17:07:00,Ikeja Branch,TILL-02,Tunde Bakare,,SKU1013,Omo Detergent 900g,Household,2,1550,0,ATM Card
+RCPT-200258,TXN200258,2026-08-09,08:26:00,IKEJA,TILL-02,Segun Adeyemi,+2348799230036,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,1250,0,pos
+RCPT-200110,TXN200110,2026-08-09,14:31:00,Surulere Branch,TILL-01,Blessing Nwosu,,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,3,280,10,POS Card
+RCPT-200007,TXN200007,2026-08-07,11:35:00,Ikeja Branch,TILL-01,Chidinma Okafor,+2348815952173,SKU1013,Omo Detergent 900g,Household,1,1800,15,Bank Transfer
+RCPT-200382,TXN200382,2026-08-08,10:16:00,Yaba Branch,TILL-02,Fatima Bello,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,1,2140,15,cash
+RCPT-200339,TXN200339,2026-08-03,12:06:00,Ikeja Branch,TILL-02,Ibrahim Musa,,SKU1019,Titus Sardine 125g,Canned Foods,4,700,15,CASH
+RCPT-200293,TXN200293,14/08/2026,10:28:00,Ikeja Branch,TILL-02,Blessing Nwosu,7711973570,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,1,160,5,Bank Transfer
+RCPT-200260,TXN200260,2026-08-09,17:17:00,MiniMart Express - Ikeja,TILL-01,,,SKU1013,Omo Detergent 900g,Household,2,1770,0,Cash
+RCPT-200094,TXN200094,2026-08-14,19:16:00,Ikeja Branch,TILL-01,Blessing Nwosu,,SKU1031,Indomie Onion Chicken 70g,Grains & Staples,2,170,15,Cash
+RCPT-200140,TXN200140,2026-08-11,17:43:00,MiniMart Express - Yaba,TILL-03,Chidinma Okafor,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,2,3570,5,transfer
+RCPT-200275,TXN200275,2026-08-03,16:58:00,SURULERE,TILL-01,Ibrahim Musa,,SKU1025,Tom Tom Sweet (pack),Snacks,3,280.00,0,Transfer
+RCPT-200244,TXN200244,07-08-2026,19:29:00,MiniMart Express - Surulere,TILL-01,Blessing Nwosu,+2348863997537,SKU1008,Milo 400g,Beverages,1,2170,0,POS Card
+RCPT-200113,TXN200113,2026-08-04,17:33:00,Ikeja Branch,TILL-02,Emeka Obi,07504398166,SKU1025,Tom Tom Sweet (pack),Snacks,1,310,0,Transfer
+RCPT-200316,TXN200316,2026-08-14,21:46:00,YABA,TILL-03,Tunde Bakare,+2348592140528,SKU1019,Titus Sardine 125g,Canned Foods,1,680,0,Bank Transfer
+RCPT-200108,TXN200108,12-08-2026,10:22:00,Ikeja Branch,TILL-02,Fatima Bello,07312480022,SKU1030,Nasco Cornflakes 500g,Grains & Staples,1,1800,5,ussd
+RCPT-200013,TXN200013,2026-08-03,12:09:00,Surulere Branch,TILL-01,Tunde Bakare,+2348355368419,SKU1008,Milo 400g,Beverages,5,2350,10,POS Card
+RCPT-200095,TXN200095,08-08-2026,17:43:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,8837063330,SKU1004,Dangote Sugar 1kg,Grains & Staples,3,1300,5,Cash
+RCPT-200233,TXN200233,2026-08-03,19:29:00,Surulere Branch,TILL-01,Chidinma Okafor,08472748668,SKU1003,Golden Morn 500g,Grains & Staples,1,,0,Bank Transfer
+RCPT-200357,TXN200357,2026-08-13,17:41:00,Ikeja Branch,TILL-01,Blessing Nwosu,,SKU1006,Bigi Cola 50cl,Beverages,1,370,5,transfer
+RCPT-200342,TXN200342,2026-08-01,07:03:00,Yaba Branch,TILL-03,Amaka Eze,7945507729,SKU1030,Nasco Cornflakes 500g,Grains & Staples,1,1900,10,ussd
+RCPT-200319,TXN200319,2026-08-07,19:57:00,IKEJA,TILL-02,Tunde Bakare,,SKU1018,Maltina 33cl,Beverages,2,500,0,USSD
+RCPT-200390,TXN200390,2026-08-01,20:16:00,YABA,TILL-03,Segun Adeyemi,,SKU1005,Coca-Cola 50cl,Beverages,1,380,10,Cash
+RCPT-200242,TXN200242,2026-08-10,12:14:00,Ikeja Branch,TILL-02,Fatima Bello,,SKU1010,Mama Gold Rice 5kg,Grains & Staples,3,6780,10,transfer
+RCPT-200135,TXN200135,2026-08-09,20:56:00,MiniMart Express - Ikeja,TILL-02,Fatima Bello,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,2,2930,5,POS Card
+RCPT-200032,TXN200032,2026-08-12,10:21 AM,MiniMart Express - Ikeja,TILL-02,Chidinma Okafor,+2349004443106,SKU1007,Gala Sausage Roll,Snacks,1,240,5,POS
+RCPT-200367,TXN200367,05-08-2026,04:17 PM,Surulere Branch,TILL-01,Blessing Nwosu,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,3,3300,0,POS Card
+RCPT-200107,TXN200107,11-08-2026,11:07:00,YABA,TILL-03,Chidinma Okafor,,SKU1021,Bournvita 500g,Beverages,1,2240,15,CASH
+RCPT-200374,TXN200374,2026-08-07,19:04:00,Yaba Branch,TILL-01,Ibrahim Musa,+2347477004071,SKU1019,Titus Sardine 125g,Canned Foods,1,640,0,transfer
+RCPT-200367,TXN200367,2026-08-05,16:17:00,MiniMart Express - Surulere,TILL-01,Blessing Nwosu,,SKU1003,Golden Morn 500g,Grains & Staples,4,1610,0,POS Card
+RCPT-200092,TXN200092,2026-08-01,17:33:00,Ikeja Branch,TILL-02,Emeka Obi,08461849530,SKU1007,Gala Sausage Roll,Snacks,1,260,0,POS
+RCPT-200202,TXN200202,2026-08-07,11:02:00,IKEJA,TILL-02,Blessing Nwosu,,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,"₦1,250.00",0,pos
+RCPT-200091,TXN200091,2026-08-08,18:19:00,Yaba Branch,TILL-02,Segun Adeyemi,08055379068,SKU1008,Milo 400g,Beverages,1,1940,0,POS Card
+RCPT-200164,TXN200164,02-08-2026,19:18:00,Surulere Branch,TILL-01,Chidinma Okafor,08561083228,SKU1019,Titus Sardine 125g,Canned Foods,1,700,5,pos
+RCPT-200014,TXN200014,02-08-2026,18:07:00,MiniMart Express - Surulere,TILL-01,Blessing Nwosu,7729291061,SKU1011,Honeywell Semolina 2kg,Grains & Staples,2,2080,10,POS Card
+RCPT-200014,TXN200014,02/08/2026,18:07:00,Surulere Branch,TILL-01,Blessing Nwosu,7729291061,SKU1025,Tom Tom Sweet (pack),Snacks,5,₦340.00,0,POS Card
+RCPT-200120,TXN200120,2026-08-11,20:29:00,Surulere Branch,TILL-01,Emeka Obi,+2347433838350,SKU1019,Titus Sardine 125g,Canned Foods,1,730,15,Card
+RCPT-200188,TXN200188,2026-08-06,11:01:00,MiniMart Express - Yaba,TILL-02,Ibrahim Musa,+2348107188852,SKU1023,Ariel Detergent 900g,Household,3,"₦1,730.00",0,Cash
+RCPT-200201,TXN200201,12/08/2026,12:49:00,Ikeja Branch,TILL-02,Amaka Eze,,SKU1016,Eva Water 75cl,Beverages,3,,0,Bank Transfer
+RCPT-200207,TXN200207,2026-08-10,09:19:00,MiniMart Express - Yaba,TILL-01,Chidinma Okafor,8836207284,SKU1030,Nasco Cornflakes 500g,Grains & Staples,1,2170,0,Transfer
+RCPT-200354,TXN200354,2026-08-04,19:02:00,MiniMart Express - Yaba,TILL-02,Ibrahim Musa,8706881586,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,2,340,0,POS Card
+RCPT-200346,TXN200346,2026-08-07,18:52:00,SURULERE,TILL-01,Ibrahim Musa,,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,1,4330,0,POS
+RCPT-200211,TXN200211,2026-08-07,16:38:00,SURULERE,TILL-01,Blessing Nwosu,,SKU1005,Coca-Cola 50cl,,1,₦390.00,0,Card
+RCPT-200197,TXN200197,2026-08-06,10:23:00,MiniMart Express - Yaba,TILL-02,Amaka Eze,,SKU1016,Eva Water 75cl,Beverages,4,190,15,USSD
+RCPT-200380,TXN200380,08/08/2026,11:53:00,Ikeja Branch,TILL-01,Tunde Bakare,,SKU1017,La Casera 50cl,Beverages,1,380,10,Cash
+RCPT-200276,TXN200276,2026-08-04,11:49:00,IKEJA,TILL-02,Segun Adeyemi,+2348783781761,SKU1009,Cowbell Milk Powder 360g,Dairy,2,2050,0,POS
+RCPT-200135,TXN200135,2026-08-09,20:56:00,IKEJA,TILL-02,Fatima Bello,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,1,,0,POS Card
+RCPT-200007,TXN200007,07-08-2026,11:35:00,Ikeja Branch,TILL-01,Chidinma Okafor,+2348815952173,SKU1006,Bigi Cola 50cl,Beverages,2,400,0,Bank Transfer
+RCPT-200046,TXN200046,05/08/2026,09:03:00,Ikeja Branch,TILL-02,Amaka Eze,,SKU1025,Tom Tom Sweet (pack),Snacks,4,300,5,POS Card
+RCPT-200266,TXN200266,2026-08-11,13:13:00,MiniMart Express - Yaba,TILL-01,Emeka Obi,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,1,"2,110.00",0,Cash
+RCPT-200198,TXN200198,09-08-2026,14:40:00,MiniMart Express - Surulere,TILL-01,Blessing Nwosu,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,4,2440,0,Cash
+RCPT-200367,TXN200367,2026-08-05,16:17:00,SURULERE,TILL-01,Blessing Nwosu,,SKU1017,La Casera 50cl,Beverages,2,340,0,POS Card
+RCPT-200039,TXN200039,2026-08-13,10:35:00,SURULERE,TILL-01,Chidinma Okafor,,SKU1001,Indomie Noodles 70g,Grains & Staples,2,140,0,transfer
+RCPT-200302,TXN200302,2026-08-14,11:59:00,YABA,TILL-01,Ibrahim Musa,08194346901,SKU1013,Omo Detergent 900g,Household,2,1750,5,CASH
+RCPT-200196,TXN200196,2026-08-10,11:55:00,MiniMart Express - Surulere,TILL-01,Blessing Nwosu,+2347585378458,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,1290,0,ATM Card
+RCPT-200096,TXN200096,11-08-2026,20:54:00,MiniMart Express - Ikeja,TILL-02,Blessing Nwosu,,SKU1020,Cerelac Infant Cereal 400g,Baby Products,2,2950,0,Cash
+RCPT-200228,TXN200228,2026-08-04,18:21:00,MiniMart Express - Ikeja,TILL-02,Chidinma Okafor,,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,300,10,POS Card
+RCPT-200192,TXN200192,10-08-2026,12:35:00,Ikeja Branch,TILL-02,Chidinma Okafor,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,2,2050,10,ATM Card
+RCPT-200250,TXN200250,02-08-2026,16:04:00,Surulere Branch,TILL-01,Tunde Bakare,7941541020,SKU1030,Nasco Cornflakes 500g,Grains & Staples,4,1800,10,Cash
+RCPT-200098,TXN200098,2026-08-05,13:47:00,Surulere Branch,TILL-01,Fatima Bello,8628406089,SKU1023,Ariel Detergent 900g,Household,1,1900,15,POS Card
+RCPT-200395,TXN200395,2026-08-13,09:01:00,MiniMart Express - Yaba,TILL-02,Emeka Obi,,SKU1027,Amstel Malta 33cl,Beverages,4,410,0,Transfer
+RCPT-200312,TXN200312,2026-08-13,19:15:00,MiniMart Express - Surulere,TILL-01,Fatima Bello,+2348366140907,SKU1026,Chivita Juice 1L,Beverages,3,"1,370.00",10,Cash
+RCPT-200181,TXN200181,2026-08-09,04:13 PM,SURULERE,TILL-01,Ibrahim Musa,7704498791,SKU1003,Golden Morn 500g,,1,"₦1,320.00",15,Bank Transfer
+RCPT-200071,TXN200071,2026-08-07,19:28:00,IKEJA,TILL-02,Ibrahim Musa,+2347172059862,SKU1027,Amstel Malta 33cl,Beverages,2,390,0,Cash
+RCPT-200124,TXN200124,2026-08-03,11:24:00,Yaba Branch,TILL-01,Ibrahim Musa,,SKU1004,Dangote Sugar 1kg,Grains & Staples,1,1320,15,USSD
+RCPT-200139,TXN200139,10-08-2026,08:46:00,Yaba Branch,TILL-03,Tunde Bakare,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,3,2540,10,Cash
+RCPT-200077,TXN200077,2026-08-08,17:43:00,Ikeja Branch,TILL-01,Ibrahim Musa,+2349011121669,SKU1009,Cowbell Milk Powder 360g,Dairy,5,1960,5,Cash
+RCPT-200053,TXN200053,2026-08-05,18:01:00,SURULERE,TILL-01,Fatima Bello,,SKU1013,Omo Detergent 900g,Household,1,1610,5,Bank Transfer
+RCPT-200147,TXN200147,2026-08-11,09:01:00,YABA,TILL-01,Emeka Obi,,SKU1030,Nasco Cornflakes 500g,Grains & Staples,2,2130,5,Bank Transfer
+RCPT-200161,TXN200161,2026-08-04,15:38:00,SURULERE,TILL-01,Emeka Obi,,SKU1016,Eva Water 75cl,Beverages,1,200,5,Card
+RCPT-200271,TXN200271,2026-08-12,08:14:00,Yaba Branch,TILL-02,Blessing Nwosu,08178188541,SKU1008,Milo 400g,Beverages,2,1890,0,Cash
+RCPT-200350,TXN200350,2026-08-09,21:39:00,Yaba Branch,TILL-01,Ibrahim Musa,8898998954,SKU1015,Close Up Toothpaste 140ml,Personal Care,3,1000,0,Bank Transfer
+RCPT-200342,TXN200342,2026-08-01,07:03:00,YABA,TILL-03,Amaka Eze,7945507729,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,3,₦310.00,5,ussd
+RCPT-200056,TXN200056,2026-08-14,12:36:00,MiniMart Express - Ikeja,TILL-02,Tunde Bakare,,SKU1006,Bigi Cola 50cl,Beverages,1,340,0,POS Card
+RCPT-200003,TXN200003,2026-08-05,15:52:00,MiniMart Express - Ikeja,TILL-01,Emeka Obi,+2347908988360,SKU1025,Tom Tom Sweet (pack),Snacks,2,330,10,Cash
+RCPT-200076,TXN200076,2026-08-02,14:44:00,MiniMart Express - Surulere,TILL-01,Amaka Eze,8751943212,SKU1006,Bigi Cola 50cl,Beverages,2,320,5,Cash
+RCPT-200051,TXN200051,2026-08-07,10:47:00,IKEJA,TILL-01,Emeka Obi,,SKU1008,Milo 400g,Beverages,2,2380,15,POS Card
+RCPT-200105,TXN200105,12/08/2026,09:52:00,MiniMart Express - Yaba,TILL-02,Chidinma Okafor,,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,4,"2,390.00",10,POS Card
+RCPT-200226,TXN200226,2026-08-11,19:50:00,MiniMart Express - Surulere,TILL-01,Ibrahim Musa,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,2,"₦2,290.00",0,ATM Card
+RCPT-200020,TXN200020,2026-08-06,16:53:00,MiniMart Express - Yaba,TILL-03,Fatima Bello,+2347662763096,SKU1003,Golden Morn 500g,,1,1450,5,ussd
+RCPT-200179,TXN200179,2026-08-11,11:48:00,YABA,TILL-01,Segun Adeyemi,+2347059823539,SKU1011,Honeywell Semolina 2kg,Grains & Staples,2,"2,170.00",5,POS Card
+RCPT-200327,TXN200327,2026-08-03,12:55:00,MiniMart Express - Surulere,TILL-01,Segun Adeyemi,07665799564,SKU1030,Nasco Cornflakes 500g,Grains & Staples,1,1740,0,ATM Card
+RCPT-200190,TXN200190,2026-08-07,09:21:00,Ikeja Branch,TILL-02,Amaka Eze,,SKU1003,Golden Morn 500g,Grains & Staples,1,1550,0,CASH
+RCPT-200129,TXN200129,2026-08-13,16:47:00,YABA,TILL-01,Tunde Bakare,+2347546793409,SKU1029,Dano Milk Powder 400g,,2,3070,10,cash
+RCPT-200077,TXN200077,08-08-2026,17:43:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,+2349011121669,SKU1006,Bigi Cola 50cl,Beverages,3,350,0,Cash
+RCPT-200318,TXN200318,2026-08-05,19:00:00,Yaba Branch,TILL-03,Emeka Obi,8783182678,SKU1004,Dangote Sugar 1kg,Grains & Staples,2,1170,0,ATM Card
+RCPT-200042,TXN200042,2026-08-09,12:02:00,Ikeja Branch,TILL-01,Chidinma Okafor,,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,3,4170,0,USSD
+RCPT-200272,TXN200272,2026-08-08,21:56:00,MiniMart Express - Ikeja,TILL-01,Ibrahim Musa,+2348566996056,SKU1027,Amstel Malta 33cl,Beverages,1,380,0,Cash
+RCPT-200220,TXN200220,2026-08-12,19:13:00,MiniMart Express - Ikeja,TILL-01,Tunde Bakare,8997090694,SKU1001,Indomie Noodles 70g,,5,160,0,ATM Card
+RCPT-200033,TXN200033,10-08-2026,14:17:00,Surulere Branch,TILL-01,Ibrahim Musa,+2348064546190,SKU1004,Dangote Sugar 1kg,Grains & Staples,3,"₦1,210.00",15,Cash
+RCPT-200361,TXN200361,2026-08-07,17:24:00,MiniMart Express - Surulere,TILL-01,Emeka Obi,9009233948,SKU1008,Milo 400g,Beverages,1,,0,Bank Transfer
+RCPT-200103,TXN200103,2026-08-06,10:19:00,SURULERE,TILL-01,Tunde Bakare,08455097720,SKU1001,Indomie Noodles 70g,Grains & Staples,5,,15,ussd
+RCPT-200022,TXN200022,09-08-2026,21:41:00,YABA,TILL-01,Segun Adeyemi,+2347909985918,SKU1024,"Pampers Diapers (pack, medium)",Baby Products,2,4610,0,Cash
+RCPT-200013,TXN200013,2026-08-03,12:09 PM,MiniMart Express - Surulere,TILL-01,Tunde Bakare,+2348355368419,SKU1001,Indomie Noodles 70g,Grains & Staples,2,150,0,POS Card
+RCPT-200039,TXN200039,2026-08-13,10:35 AM,Surulere Branch,TILL-01,Chidinma Okafor,,SKU1011,Honeywell Semolina 2kg,Grains & Staples,1,"2,100.00",15,transfer
+RCPT-200221,TXN200221,03/08/2026,14:33:00,Ikeja Branch,TILL-01,Tunde Bakare,+2348104116690,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,1,2880,5,Transfer
+RCPT-200058,TXN200058,2026-08-01,17:46:00,MiniMart Express - Yaba,TILL-02,Segun Adeyemi,,SKU1028,Semovita 2kg,Grains & Staples,4,2130,0,POS Card
+RCPT-200103,TXN200103,06/08/2026,10:19:00,Surulere Branch,TILL-01,Tunde Bakare,08455097720,SKU1002,Peak Milk Evaporated 170g,Dairy,2,730,10,ussd
+RCPT-200262,TXN200262,14-08-2026,18:31:00,Surulere Branch,TILL-01,Amaka Eze,8408778455,SKU1030,Nasco Cornflakes 500g,Grains & Staples,3,1710,10,transfer
+RCPT-200365,TXN200365,03-08-2026,18:04:00,IKEJA,TILL-01,Blessing Nwosu,09049462379,SKU1008,Milo 400g,Beverages,2,2010,15,Bank Transfer
+RCPT-200338,TXN200338,2026-08-13,11:33:00,MiniMart Express - Ikeja,TILL-01,Chidinma Okafor,07649625631,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,1,₦320.00,15,Transfer
+RCPT-200313,TXN200313,2026-08-09,20:50:00,SURULERE,TILL-01,Emeka Obi,,SKU1002,Peak Milk Evaporated 170g,Dairy,1,600,0,Transfer
+RCPT-200208,TXN200208,2026-08-04,10:49:00,SURULERE,TILL-01,Emeka Obi,,SKU1019,Titus Sardine 125g,Canned Foods,1,670,5,Cash
+RCPT-200375,TXN200375,2026-08-01,18:38:00,MiniMart Express - Surulere,TILL-01,Fatima Bello,+2348004900605,SKU1016,Eva Water 75cl,Beverages,2,200,0,Card
+RCPT-200374,TXN200374,07-08-2026,19:04:00,Yaba Branch,TILL-01,Ibrahim Musa,+2347477004071,SKU1013,Omo Detergent 900g,Household,2,1730,10,transfer
+RCPT-200005,TXN200005,2026-08-09,09:57:00,SURULERE,TILL-01,Emeka Obi,,SKU1022,Knorr Chicken Cubes (pack),Grains & Staples,2,320,10,Transfer
+RCPT-200036,TXN200036,2026-08-06,12:44:00,Surulere Branch,TILL-01,Ibrahim Musa,+2348643002325,SKU1029,Dano Milk Powder 400g,Dairy,3,2830,10,Bank Transfer
+RCPT-200202,TXN200202,07-08-2026,11:02:00,IKEJA,TILL-02,Blessing Nwosu,,SKU1012,Kings Vegetable Oil 1L,Grains & Staples,1,2980,5,pos
+RCPT-200062,TXN200062,2026-08-06,19:02:00,Surulere Branch,TILL-01,Tunde Bakare,+2347238058885,SKU1013,Omo Detergent 900g,Household,1,"₦1,460.00",15,pos
+RCPT-200354,TXN200354,2026-08-04,19:02:00,YABA,TILL-02,Ibrahim Musa,8706881586,SKU1020,Cerelac Infant Cereal 400g,Baby Products,1,"₦3,250.00",0,POS Card
+RCPT-200104,TXN200104,2026-08-08,07:05:00,SURULERE,TILL-01,Segun Adeyemi,9059369038,SKU1007,Gala Sausage Roll,Snacks,5,240,10,POS Card
