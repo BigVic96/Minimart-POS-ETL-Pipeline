@@ -13,11 +13,22 @@ staging Schema: The raw files are ingested directly into a landing zone without 
 main Schema (Star Schema): Data is cleaned, deduplicated, and transformed into optimized Fact and Dimension tables (main.fact_* and main.dim_*).
 Power BI Ingestion: The finalized star schema seamlessly updates the Power BI dashboard, ensuring data changes reflect automatically for end-user reporting.
 
+
+<img width="1100" height="800" alt="image" src="https://github.com/user-attachments/assets/a27bff6d-b591-4173-81e4-feb0197bf630" />
+
+
+
+
 # 🛠️ Key FeaturesFile-Watch Automation
 Implements automatic triggers that detect new incoming files to kick off the pipeline immediately upon arrival.
 Scheduled Orchestration: Backed by Windows Task Scheduler configured on a weekly cadence to ensure routine synchronization and system maintenance.
 High-Performance Analytics: Leverages DuckDB's columnar execution engine to transform millions of transactional rows efficiently on local infrastructure.
 Automated End-to-End Reporting: Bridges the entire gap between a raw checkout file drop and an updated executive Power BI dashboard with zero manual intervention required.
+
+
+<img width="1400" height="420" alt="image" src="https://github.com/user-attachments/assets/95af066f-2ca4-4b60-94e6-abed01f38d5d" />
+
+
 
 # 🧰 Tech stack
 DuckDB — data cleaning, star schema, SQL
